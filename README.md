@@ -1,6 +1,15 @@
 # Microsoft-AI-Links
 Useful Links for Artificial Intelligence, Data Science and Analytics within Microsoft Platform
 
+## Microsoft Learn AI Team - Advanced Analytics Trainings
++ Learn AI Team Portal - http://aka.ms/la-portal
++ Learn AI Public Trainings - http://aka.ms/la-lap
++ Learn AI Ethics Training - http://aka.ms/la-ethics
++ Learn AI Useful Links - http://aka.ms/la-links
++ Learn AI Bootcamp - Computer Vision Bot - http://aka.ms/la-vision-bot 
++ Learn AI Cognitive Search Workshop - http://aka.ms/la-csw
++ How to Create a Password Bot - https://blogs.msdn.microsoft.com/buckwoody/2018/09/25/applied-ai-using-a-bot-for-password-reset/
+
 ## AI Labs, Trainings, Products and Solutions
 + AI Platform - http://www.microsoft.com/ai
 + AI Customer Stories - https://www.microsoft.com/en-us/ai/customer-stories 
@@ -13,14 +22,6 @@ Useful Links for Artificial Intelligence, Data Science and Analytics within Micr
 + AI Bots - http://aka.ms/bot
 + AI Professional Program - http://aka.ms/mppai
 + Microsoft, Adobe and SAP - Open Data Initiative - https://text-analytics-demo-dev.azurewebsites.net/
-
-
-## Microsoft Learn AI Team - Advanced Analytics Trainings
-+ Learn AI Team Portal - http://aka.ms/LearnAITeam
-+ Learn AI Public trainings - http://aka.ms/lap
-+ Learn AI Useful Links - http://aka.ms/la-links
-+ Cognitive Search Workshop - http://aka.ms/csw
-+ AI Ethics training - http://aka.ms/ai-ethics
 
 ## Cognitive Search Demos
 + [Cognitive Services Enrichment Pipeline Demo](https://text-analytics-demo-dev.azurewebsites.net/)
