@@ -18,6 +18,7 @@ Useful Links for Artificial Intelligence, Data Science and Analytics within Micr
 ## Microsoft Learn AI Team - Advanced Analytics Trainings
 + Learn AI Team Portal - http://aka.ms/LearnAITeam
 + Learn AI Public trainings - http://aka.ms/lap
++ Learn AI Useful Links - http://aka.ms/la-links
 + Cognitive Search Workshop - http://aka.ms/csw
 + AI Ethics training - http://aka.ms/ai-ethics
 
