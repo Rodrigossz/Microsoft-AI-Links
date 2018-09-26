@@ -33,6 +33,7 @@ Useful Links for Artificial Intelligence, Data Science and Analytics within Micr
 + [Cognitive Search Business Healthcare Demo - CTakes](http://webmedsearch.azurewebsites.net/)
 
 ## Azure Utilities 
++ Microsoft Learning - https://docs.microsoft.com/en-us/learn/
 + Architecture Center - https://docs.microsoft.com/en-us/azure/architecture/
 + Reference Architectures - https://azure.microsoft.com/en-us/solutions/architecture/
 + Azure SQL DTU Calculator - http://dtucalculator.azurewebsites.net/
