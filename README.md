@@ -8,6 +8,7 @@ Useful Links for Artificial Intelligence, Data Science and Analytics within Micr
 + Learn AI Useful Links - http://aka.ms/la-links
 + Learn AI Bootcamp - Computer Vision Bot - http://aka.ms/la-vision-bot 
 + Learn AI Cognitive Search Workshop - http://aka.ms/la-csw
++ Learn AI Designing and Architecting Intelligent Agents Trainig - http://aka.ms/la-daaia 
 + How to Create a Password Bot - https://blogs.msdn.microsoft.com/buckwoody/2018/09/25/applied-ai-using-a-bot-for-password-reset/
 
 ## AI Labs, Trainings, Products and Solutions
