@@ -39,6 +39,7 @@ Useful Links for Artificial Intelligence, Data Science and Analytics within Micr
 + Roadmap - https://azure.microsoft.com/en-us/roadmap
 + Latency Test - http://www.azurespeed.com/
 + Interactive Platform - http://azureinteractives.azurewebsites.net/
++ CosmosDb Capacity Planner - https://www.documentdb.com/capacityplanner
 
 ## Useful AI Microsoft Internal Links
 + Engineering Academy for AI - http://aka.ms/LearnAi
