@@ -8,6 +8,7 @@ Useful Links about Microsoft AI Platform and related resources
 + [Microsoft AI Ethics](https://aka.ms/ai-ethics)
 + [Microsoft AI Gallery](http://aka.ms/aigallery)
 + [Microsoft AI Customer Cases](https://www.microsoft.com/en-us/ai/customer-stories)
++ [Microsoft AI Landscape](http://aka.ms/ai-landscape)
 + [Microsoft AI Lab](https://www.ailab.microsoft.com/) **-> Released May, 2018**
 + [Microsoft AI TV](https://aka.ms/AzureTV) **-> Released May, 2018**
 + [Microsoft AI Analytics School](https://learnanalytics.microsoft.com/) 
