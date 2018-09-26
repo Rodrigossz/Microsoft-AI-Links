@@ -22,6 +22,7 @@ Useful Links for Artificial Intelligence, Data Science and Analytics within Micr
 + AI Open Datasets - http://msropendata.com/
 + AI Bots - http://aka.ms/bot
 + AI Professional Program - http://aka.ms/mppai
++ AI Cognitive Services Catalog - http://aka.ms/cscatalog 
 + Microsoft, Adobe and SAP - Open Data Initiative - http://text-analytics-demo-dev.azurewebsites.net/
 
 ## Cognitive Search Demos
