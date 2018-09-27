@@ -24,7 +24,6 @@ Useful Links for Artificial Intelligence, Data Science and Analytics within Micr
 + AI Bots - http://aka.ms/bot
 + AI Professional Program - http://aka.ms/mppai
 + AI Cognitive Services Catalog - http://aka.ms/cscatalog 
-+ Microsoft, Adobe and SAP - Open Data Initiative - http://text-analytics-demo-dev.azurewebsites.net/
 + Bot Framework - https://dev.botframework.com/
 + Azure Machine Learning - Python SDK - http://aka.ms/aml-sdk
 + Azure Machine Learning - Data Preparation SDK - http://aka.ms/dataprep-sdk
@@ -53,13 +52,18 @@ Useful Links for Artificial Intelligence, Data Science and Analytics within Micr
 + Azure Datacenters - http://azuredatacentermap.azurewebsites.net/
 + Azure to AWS Services Compare - https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services
 
+# Microsoft Strategic Partnerships
++ AI - ONNX - Facebook and AWS - https://onnx.ai/
++ AI - Open Data - Adobe and SAP - http://text-analytics-demo-dev.azurewebsites.net/
++ IIoT - ABB - https://news.microsoft.com/2016/10/03/abb-and-microsoft-partner-to-drive-digital-industrial-transformation/
++ IIoT - GE - https://news.microsoft.com/2016/07/11/ge-and-microsoft-partner-to-bring-predix-to-azure-accelerating-digital-transformation-for-industrial-customers/
++ IIoT - AspenTech - http://www.intelligenttechchannels.com/aspentech-to-host-on-microsoft-azure-to-deliver-iiot-asset-management-analytics/
++ IIoT - Cisco - https://azure.microsoft.com/en-us/blog/microsoft-and-cisco-enable-azure-iot-suite-to-connect-to-cisco-fog-deployments/
++ IIoT - Osisoft - https://www.osisoft.com/uploadedFiles/Content/Content_Modules/wp-azure-iot-lt.pdf
+
+
 ## Azure IoT
 + Microsoft AI Toolkit for IoT Edge - https://github.com/Azure/ai-toolkit-iot-edge
-+ Microsoft and ABB Partnership - https://news.microsoft.com/2016/10/03/abb-and-microsoft-partner-to-drive-digital-industrial-transformation/
-+ Microsoft and GE Partnership - https://news.microsoft.com/2016/07/11/ge-and-microsoft-partner-to-bring-predix-to-azure-accelerating-digital-transformation-for-industrial-customers/
-+ Microsoft and AspenTech Partnership - http://www.intelligenttechchannels.com/aspentech-to-host-on-microsoft-azure-to-deliver-iiot-asset-management-analytics/
-+ Microsoft and Cisco Partnership - https://azure.microsoft.com/en-us/blog/microsoft-and-cisco-enable-azure-iot-suite-to-connect-to-cisco-fog-deployments/
-+ Microsoft and Osisoft Partnership - https://www.osisoft.com/uploadedFiles/Content/Content_Modules/wp-azure-iot-lt.pdf
 + Microsoft Certified IoT HW Partners - https://azure.microsoft.com/en-us/marketplace/certified-iot-partners/
 + Microsoft Certified IoT SW Partners - http://azureiotpartners.azurewebsites.net/#countryFilter=global
 + Microsoft IoT Customer Stories - http://customers.microsoft.com/en-us/search?sq=internet%20of%20things&ff=&p=0&so=story_publish_date%20desc
