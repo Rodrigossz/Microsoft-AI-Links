@@ -26,13 +26,13 @@ Useful Links for Artificial Intelligence, Data Science and Analytics within Micr
 + AI Cognitive Services Catalog - http://aka.ms/cscatalog 
 + Microsoft, Adobe and SAP - Open Data Initiative - http://text-analytics-demo-dev.azurewebsites.net/
 
-## Cognitive Search Demos
-+ [Cognitive Services Enrichment Pipeline Demo](https://text-analytics-demo-dev.azurewebsites.net/)
-+ [Cognitive Search Official Demo - JFK Files](https://jfk-demo.azurewebsites.net/)
-+ [Cognitive Search Official Code - JFK Files](https://github.com/Microsoft/AzureSearch_JFK_Files)
-+ [Cognitive Search Business Documents Demo - Wolters Kluwer](https://wolterskluwereap.azurewebsites.net/)
-+ [Cognitive Search Business Oil & Gas Demo - Exxon Mobile](http://seismicsearch.azurewebsites.net/)
-+ [Cognitive Search Business Healthcare Demo - CTakes](http://webmedsearch.azurewebsites.net/)
+## Demos
++ Cognitive Services Enrichment Pipeline - https://text-analytics-demo-dev.azurewebsites.net/
++ Cognitive Search Official Demo - JFK Files - https://jfk-demo.azurewebsites.net/
++ Cognitive Search Official Code - JFK Files - https://github.com/Microsoft/AzureSearch_JFK_Files
++ Cognitive Search Business Documents Demo - Wolters Kluwer - https://wolterskluwereap.azurewebsites.net/
++ Cognitive Search Business Oil & Gas Demo - Exxon Mobile - http://seismicsearch.azurewebsites.net/
++ Cognitive Search Business Healthcare - CTakes - http://webmedsearch.azurewebsites.net/
 
 ## Azure Utilities 
 + Microsoft Learning - https://docs.microsoft.com/en-us/learn/
