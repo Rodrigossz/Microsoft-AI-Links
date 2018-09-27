@@ -55,6 +55,7 @@ Useful Links for Artificial Intelligence, Data Science and Analytics within Micr
 ## Microsoft Strategic Partnerships
 + AI - ONNX - Facebook and AWS - https://onnx.ai/
 + AI - Open Data - Adobe and SAP - http://text-analytics-demo-dev.azurewebsites.net/
++ AI - Cortana/Alexa Integration - AWS - https://blogs.microsoft.com/blog/2017/08/30/hey-cortana-open-alexa-microsoft-amazons-first-kind-collaboration/
 + IIoT - ABB - https://news.microsoft.com/2016/10/03/abb-and-microsoft-partner-to-drive-digital-industrial-transformation/
 + IIoT - GE - https://news.microsoft.com/2016/07/11/ge-and-microsoft-partner-to-bring-predix-to-azure-accelerating-digital-transformation-for-industrial-customers/
 + IIoT - AspenTech - http://www.intelligenttechchannels.com/aspentech-to-host-on-microsoft-azure-to-deliver-iiot-asset-management-analytics/
