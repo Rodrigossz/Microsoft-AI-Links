@@ -52,7 +52,7 @@ Useful Links for Artificial Intelligence, Data Science and Analytics within Micr
 + Azure Datacenters - http://azuredatacentermap.azurewebsites.net/
 + Azure to AWS Services Compare - https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services
 
-# Microsoft Strategic Partnerships
+## Microsoft Strategic Partnerships
 + AI - ONNX - Facebook and AWS - https://onnx.ai/
 + AI - Open Data - Adobe and SAP - http://text-analytics-demo-dev.azurewebsites.net/
 + IIoT - ABB - https://news.microsoft.com/2016/10/03/abb-and-microsoft-partner-to-drive-digital-industrial-transformation/
