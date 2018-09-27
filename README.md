@@ -62,6 +62,7 @@ Useful Links for Artificial Intelligence, Data Science and Analytics within Micr
 + Azure Free Account - https://azure.microsoft.com/en-us/free/
 + Azure Datacenters - http://azuredatacentermap.azurewebsites.net/
 + Azure to AWS Services Compare - https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services
++ Visio Stencils for Azure and Cloud Diagrams - https://www.microsoft.com/en-us/download/details.aspx?id=41937
 
 ## Microsoft Strategic Partnerships
 + AI - ONNX - Facebook and AWS - https://onnx.ai/
