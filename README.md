@@ -2,15 +2,15 @@
 Useful Links for Artificial Intelligence, Data Science and Analytics within Microsoft Platform
 
 ## Microsoft Learn AI Team - Advanced Analytics Trainings
-+ Learn AI Team Portal - http://aka.ms/la-portal
++ Learn AI Team - Portal - http://aka.ms/la-portal
 + Learn AI Team - Public Trainings - http://aka.ms/la-public
-+ Learn AI Team Ethics Training - http://aka.ms/la-ethics
-+ Learn AI Team Useful Links - http://aka.ms/la-links
-+ Learn AI Team Bootcamp - Computer Vision Bot - http://aka.ms/la-vision-bot 
++ Learn AI Team - Ethics Training - http://aka.ms/la-ethics
++ Learn AI Team - Useful Links - http://aka.ms/la-links
++ Learn AI Team - Computer Vision Bot Bootcamp - http://aka.ms/la-vision-bot 
 + Learn AI Team - Cognitive Search Workshop - http://aka.ms/la-csw
 + Learn AI Team - Designing and Architecting Intelligent Agents Trainig - http://aka.ms/la-daaia 
-+ Learn AI Team Trainig Partners Program - https://aka.ms/AI_TrainingPartners
-+ Learn AI Team Blog - How to Create a Password Bot - https://blogs.msdn.microsoft.com/buckwoody/2018/09/25/applied-ai-using-a-bot-for-password-reset/
++ Learn AI Team - Trainig Partners Program - https://aka.ms/AI_TrainingPartners
++ Learn AI Team - Blog - How to Create a Password Bot - https://blogs.msdn.microsoft.com/buckwoody/2018/09/25/applied-ai-using-a-bot-for-password-reset/
 
 ## AI Labs, Trainings, Products and Solutions
 + AI Platform - http://www.microsoft.com/ai
