@@ -37,7 +37,8 @@ Useful Links for Artificial Intelligence, Data Science and Analytics within Micr
 ## Azure Utilities 
 + Microsoft Learning - https://docs.microsoft.com/en-us/learn/
 + Architecture Center - https://docs.microsoft.com/en-us/azure/architecture/
-+ Reference Architectures - https://azure.microsoft.com/en-us/solutions/architecture/
++ Solution Architectures - https://azure.microsoft.com/en-us/solutions/architecture/
++ Reference Architectures - https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/
 + Azure SQL DTU Calculator - http://dtucalculator.azurewebsites.net/
 + Find the right Azure APP for your Business - https://appsource.microsoft.com/en-us/
 + Roadmap - https://azure.microsoft.com/en-us/roadmap
@@ -46,6 +47,7 @@ Useful Links for Artificial Intelligence, Data Science and Analytics within Micr
 + CosmosDb Capacity Planner - https://www.documentdb.com/capacityplanner
 + Azure Free Account - https://azure.microsoft.com/en-us/free/
 + Azure Datacenters - http://azuredatacentermap.azurewebsites.net/
++ Azure to AWS Services Compare - https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services
 
 ## Useful AI Microsoft Internal Links
 + Engineering Academy for AI - http://aka.ms/LearnAi
