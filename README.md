@@ -44,6 +44,7 @@ Useful Links for Artificial Intelligence, Data Science and Analytics within Micr
 + Latency Test - http://www.azurespeed.com/
 + Interactive Platform - http://azureinteractives.azurewebsites.net/
 + CosmosDb Capacity Planner - https://www.documentdb.com/capacityplanner
++ Azure Free Account - https://azure.microsoft.com/en-us/free/
 
 ## Useful AI Microsoft Internal Links
 + Engineering Academy for AI - http://aka.ms/LearnAi
