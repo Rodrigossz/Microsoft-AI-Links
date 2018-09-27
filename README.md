@@ -1,7 +1,7 @@
 # Microsoft-AI-Links
 Useful Links for Artificial Intelligence, Data Science and Analytics within Microsoft Platform
 
-## Microsoft Learn AI Team - Advanced Artificial Intelligence Trainings
+## Microsoft Learn AI Team - Artificial Intelligence Advanced Trainings
 + Learn AI Team - Portal - http://aka.ms/la-portal
 + Learn AI Team - Public Trainings - http://aka.ms/la-public
 + Learn AI Team - Ethics Training - http://aka.ms/la-ethics
