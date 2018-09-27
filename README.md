@@ -46,6 +46,7 @@ Useful Links for Artificial Intelligence, Data Science and Analytics within Micr
 + Cognitive Search Business Oil & Gas Demo - Exxon Mobile - http://seismicsearch.azurewebsites.net/
 + Cognitive Search Business Healthcare - CTakes - http://webmedsearch.azurewebsites.net/
 + Azure Time Series Insights - https://insights.timeseries.azure.com/demo
++ Computer Vision API - How Old? - https://www.how-old.net/#
 
 ## Azure Utilities 
 + Microsoft Learning - https://docs.microsoft.com/en-us/learn/
