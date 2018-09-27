@@ -3,13 +3,14 @@ Useful Links for Artificial Intelligence, Data Science and Analytics within Micr
 
 ## Microsoft Learn AI Team - Advanced Analytics Trainings
 + Learn AI Team Portal - http://aka.ms/la-portal
-+ Learn AI Public Trainings - http://aka.ms/la-public
-+ Learn AI Ethics Training - http://aka.ms/la-ethics
-+ Learn AI Useful Links - http://aka.ms/la-links
-+ Learn AI Bootcamp - Computer Vision Bot - http://aka.ms/la-vision-bot 
-+ Learn AI Cognitive Search Workshop - http://aka.ms/la-csw
-+ Learn AI Designing and Architecting Intelligent Agents Trainig - http://aka.ms/la-daaia 
-+ How to Create a Password Bot - https://blogs.msdn.microsoft.com/buckwoody/2018/09/25/applied-ai-using-a-bot-for-password-reset/
++ Learn AI Team - Public Trainings - http://aka.ms/la-public
++ Learn AI Team Ethics Training - http://aka.ms/la-ethics
++ Learn AI Team Useful Links - http://aka.ms/la-links
++ Learn AI Team Bootcamp - Computer Vision Bot - http://aka.ms/la-vision-bot 
++ Learn AI Team - Cognitive Search Workshop - http://aka.ms/la-csw
++ Learn AI Team - Designing and Architecting Intelligent Agents Trainig - http://aka.ms/la-daaia 
++ Learn AI Team Trainig Partners Program - https://aka.ms/AI_TrainingPartners
++ Learn AI Team Blog - How to Create a Password Bot - https://blogs.msdn.microsoft.com/buckwoody/2018/09/25/applied-ai-using-a-bot-for-password-reset/
 
 ## AI Labs, Trainings, Products and Solutions
 + AI Platform - http://www.microsoft.com/ai
