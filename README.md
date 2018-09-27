@@ -28,6 +28,7 @@ Useful Links for Artificial Intelligence, Data Science and Analytics within Micr
 + Bot Framework - https://dev.botframework.com/
 + Azure Machine Learning - Python SDK - http://aka.ms/aml-sdk
 + Azure Machine Learning - Data Preparation SDK - http://aka.ms/dataprep-sdk
++ Azure Machine Learning Studio - http://aka.ms/amlstudio
 
 ## Demos
 + Cognitive Services Enrichment Pipeline - https://text-analytics-demo-dev.azurewebsites.net/
