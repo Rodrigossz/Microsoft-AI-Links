@@ -12,7 +12,7 @@ Useful Links for Artificial Intelligence, Data Science and Analytics within Micr
 + Learn AI Team - Trainig Partners Program - https://aka.ms/AI_TrainingPartners
 + Learn AI Team - Blog - How to Create a Password Bot - https://blogs.msdn.microsoft.com/buckwoody/2018/09/25/applied-ai-using-a-bot-for-password-reset/
 
-## AI Labs, Trainings, Products and Solutions
+## Microsoft AI Labs, Trainings, Products and Solutions
 + AI Platform - http://www.microsoft.com/ai
 + AI Customer Stories - https://www.microsoft.com/en-us/ai/customer-stories 
 + AI Gallery - http://aka.ms/aigallery
