@@ -45,6 +45,7 @@ Useful Links for Artificial Intelligence, Data Science and Analytics within Micr
 + Interactive Platform - http://azureinteractives.azurewebsites.net/
 + CosmosDb Capacity Planner - https://www.documentdb.com/capacityplanner
 + Azure Free Account - https://azure.microsoft.com/en-us/free/
++ Azure Datacenters - http://azuredatacentermap.azurewebsites.net/
 
 ## Useful AI Microsoft Internal Links
 + Engineering Academy for AI - http://aka.ms/LearnAi
