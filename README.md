@@ -12,6 +12,15 @@ Useful Links for Artificial Intelligence, Data Science and Analytics within Micr
 + Learn AI Team - Trainig Partners Program - https://aka.ms/AI_TrainingPartners
 + Learn AI Team - Blog - How to Create a Password Bot - https://blogs.msdn.microsoft.com/buckwoody/2018/09/25/applied-ai-using-a-bot-for-password-reset/
 
+## Microsoft Cognitive Services
++ Cognitive Services FULL Catalog - http://aka.ms/cscatalog 
++ Cognitive Search - https://docs.microsoft.com/en-us/azure/search/cognitive-search-concept-intro
++ CRIS - Custom Speech - https://aka.ms/cris
++ LUIS - Language Understanding - https://aka.ms/luis
++ Custom Vision - https://aka.ms/customvision
++ Q&A Maker - https://www.qnamaker.ai/
++ Video Indexer - https://www.videoindexer.ai/
+
 ## Microsoft AI Labs, Trainings, Products and Solutions
 + AI Platform - http://www.microsoft.com/ai
 + AI Customer Stories - https://www.microsoft.com/en-us/ai/customer-stories 
@@ -23,11 +32,11 @@ Useful Links for Artificial Intelligence, Data Science and Analytics within Micr
 + AI Open Datasets - http://msropendata.com/
 + AI Bots - http://aka.ms/bot
 + AI Professional Program - http://aka.ms/mppai
-+ AI Cognitive Services Catalog - http://aka.ms/cscatalog 
 + Bot Framework - https://dev.botframework.com/
 + Azure Machine Learning - Python SDK - http://aka.ms/aml-sdk
 + Azure Machine Learning - Data Preparation SDK - http://aka.ms/dataprep-sdk
 + Azure Machine Learning Studio - http://aka.ms/amlstudio
+
 
 ## Demos
 + Cognitive Services Enrichment Pipeline - https://text-analytics-demo-dev.azurewebsites.net/
