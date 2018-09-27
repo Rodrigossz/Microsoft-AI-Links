@@ -25,6 +25,9 @@ Useful Links for Artificial Intelligence, Data Science and Analytics within Micr
 + AI Professional Program - http://aka.ms/mppai
 + AI Cognitive Services Catalog - http://aka.ms/cscatalog 
 + Microsoft, Adobe and SAP - Open Data Initiative - http://text-analytics-demo-dev.azurewebsites.net/
++ Bot Framework - https://dev.botframework.com/
++ Azure Machine Learning - Python SDK - http://aka.ms/aml-sdk
++ Azure Machine Learning - Data Preparation SDK - http://aka.ms/dataprep-sdk
 
 ## Demos
 + Cognitive Services Enrichment Pipeline - https://text-analytics-demo-dev.azurewebsites.net/
