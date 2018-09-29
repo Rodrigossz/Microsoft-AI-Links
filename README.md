@@ -36,6 +36,7 @@ Useful Links for Artificial Intelligence, Data Science and Analytics within Micr
 + Azure Machine Learning - Python SDK - http://aka.ms/aml-sdk
 + Azure Machine Learning - Data Preparation SDK - http://aka.ms/dataprep-sdk
 + Azure Machine Learning Studio - http://aka.ms/amlstudio
++ Azure commitment with GDPR - https://blogs.microsoft.com/on-the-issues/2017/02/15/get-gdpr-compliant-with-the-microsoft-cloud/
 
 
 ## Demos
