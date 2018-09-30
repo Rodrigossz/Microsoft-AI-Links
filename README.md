@@ -80,6 +80,7 @@ Useful Links for Artificial Intelligence, Data Science and Analytics within Micr
 ## Azure IoT
 + Microsoft IoT Edge Marketplace -  http://aka.ms/iot-edge-marketplace
 + Microsoft IoT Edge Toolkit - https://github.com/Azure/ai-toolkit-iot-edge
++ Microsoft IoT Edge Offline Usage - https://azure.microsoft.com/en-us/blog/extended-offline-operation-with-azure-iot-edge/
 + Microsoft IoT Hands-on Lab - https://github.com/Azure-Samples/azureiotlabs
 + Microsoft IoT Certified SW Partners - http://azureiotpartners.azurewebsites.net/#countryFilter=global
 + Microsoft IoT Certified HW Partners - https://azure.microsoft.com/en-us/marketplace/certified-iot-partners/
