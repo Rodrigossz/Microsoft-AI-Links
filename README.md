@@ -49,21 +49,21 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Computer Vision API - How Old? - https://www.how-old.net/#
 
 ## Azure Utilities 
-+ Microsoft Learning - https://docs.microsoft.com/en-us/learn/
-+ Architecture Center - https://docs.microsoft.com/en-us/azure/architecture/
-+ Solution Architectures - https://azure.microsoft.com/en-us/solutions/architecture/
-+ Reference Architectures - https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/
++ Microsoft Learning - http://www.microsoft.com/learn
++ Architecture Center - http://docs.microsoft.com/en-us/azure/architecture/
++ Solution Architectures - http://azure.microsoft.com/en-us/solutions/architecture/
++ Reference Architectures - http://docs.microsoft.com/en-us/azure/architecture/reference-architectures/
 + Azure SQL DTU Calculator - http://dtucalculator.azurewebsites.net/
 + Find the right Azure APP for your Business - https://appsource.microsoft.com/en-us/
-+ Roadmap - https://azure.microsoft.com/en-us/roadmap
++ Roadmap - http://azure.microsoft.com/en-us/roadmap
 + Latency Test - http://www.azurespeed.com/
 + Interactive Platform - http://azureinteractives.azurewebsites.net/
-+ CosmosDb Capacity Planner - https://www.documentdb.com/capacityplanner
-+ Azure Free Account - https://azure.microsoft.com/en-us/free/
++ CosmosDb Capacity Planner - http://www.documentdb.com/capacityplanner
++ Azure Free Account - http://azure.microsoft.com/en-us/free/
 + Azure Datacenters - http://azuredatacentermap.azurewebsites.net/
-+ Azure to AWS Services Compare - https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services
-+ Visio Stencils for Azure and Cloud Diagrams - https://www.microsoft.com/en-us/download/details.aspx?id=41937
-+ Azure commitment with GDPR - https://blogs.microsoft.com/on-the-issues/2017/02/15/get-gdpr-compliant-with-the-microsoft-cloud/
++ Azure to AWS Services Compare - http://docs.microsoft.com/en-us/azure/architecture/aws-professional/services
++ Visio Stencils for Azure and Cloud Diagrams - http://www.microsoft.com/en-us/download/details.aspx?id=41937
++ Azure commitment with GDPR - http://blogs.microsoft.com/on-the-issues/2017/02/15/get-gdpr-compliant-with-the-microsoft-cloud/
 
 
 ## Microsoft Strategic Partnerships
