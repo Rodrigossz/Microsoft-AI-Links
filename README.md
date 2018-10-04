@@ -80,6 +80,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 ## Azure IoT
 + Microsoft IoT Edge Marketplace -  http://aka.ms/iot-edge-marketplace
 + Microsoft IoT Edge Toolkit - https://github.com/Azure/ai-toolkit-iot-edge
++ Microsoft IoT Device Twins - https://azure.microsoft.com/en-us/services/digital-twins/
 + Microsoft IoT Edge Offline Usage - https://azure.microsoft.com/en-us/blog/extended-offline-operation-with-azure-iot-edge/
 + Microsoft IoT Extension for VS Code - https://github.com/Microsoft/vscode-iot-workbench
 + Microsoft IoT Hands-on Lab - https://github.com/Azure-Samples/azureiotlabs
