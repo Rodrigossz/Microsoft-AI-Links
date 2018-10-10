@@ -2,15 +2,15 @@
 Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within Microsoft Platform
 
 ## Microsoft Learn AI Team - Artificial Intelligence Advanced Trainings
-+ Learn AI Team - Portal - http://aka.ms/la-portal
-+ Learn AI Team - Public Trainings - http://aka.ms/la-public
-+ Learn AI Team - Ethics Training - http://aka.ms/la-ethics
-+ Learn AI Team - Useful Links - http://aka.ms/la-links
-+ Learn AI Team - Computer Vision Bot Bootcamp - http://aka.ms/la-vision-bot 
-+ Learn AI Team - Cognitive Search Workshop - http://aka.ms/la-csw
-+ Learn AI Team - Designing and Architecting Intelligent Agents Trainig - http://aka.ms/la-daaia 
-+ Learn AI Team - Trainig Partners Program - https://aka.ms/AI_TrainingPartners
-+ Learn AI Team - Blog - How to Create a Password Bot - https://blogs.msdn.microsoft.com/buckwoody/2018/09/25/applied-ai-using-a-bot-for-password-reset/
++ Learn AI Team - Portal - http://aka.ms/LearnAI-portal
++ Learn AI Team - Public Trainings - http://aka.ms/LearnAI-trainings
++ Learn AI Team - Ethics Training - http://aka.ms/LearnAI-ethics
++ Learn AI Team - Useful Links - http://aka.ms/LearnAI-links
++ Learn AI Team - Computer Vision Bot Bootcamp - http://aka.ms/LearnAI-vision-bot 
++ Learn AI Team - Cognitive Search Workshop - http://aka.ms/LearnAI-csw
++ Learn AI Team - Designing and Architecting Intelligent Agents Trainig - http://aka.ms/LearnAI-daaia 
++ Learn AI Team - Trainig Partners Program - http://aka.ms/LearnAI-partners
++ Learn AI Team - Msdn Blog - Buck Woody - http://aka.ms/LearnAI-blog
 
 ## Microsoft Cognitive Services
 + Cognitive Services FULL Catalog - http://aka.ms/cscatalog 
