@@ -1,16 +1,16 @@
-# Microsoft-AI-Links
+# Microsoft's LearnAI Team - Links
 Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within Microsoft Platform
 
-## Microsoft Learn AI Team - Artificial Intelligence Advanced Trainings
-+ Learn AI Team - Portal - http://aka.ms/LearnAI-portal
-+ Learn AI Team - Public Trainings - http://aka.ms/LearnAI-trainings
-+ Learn AI Team - Ethics Training - http://aka.ms/LearnAI-ethics
-+ Learn AI Team - Useful Links - http://aka.ms/LearnAI-links
-+ Learn AI Team - Computer Vision Bot Bootcamp - http://aka.ms/LearnAI-vision-bot 
-+ Learn AI Team - Cognitive Search Workshop - http://aka.ms/LearnAI-csw
-+ Learn AI Team - Designing and Architecting Intelligent Agents Trainig - http://aka.ms/LearnAI-daaia 
-+ Learn AI Team - Trainig Partners Program - http://aka.ms/LearnAI-partners
-+ Learn AI Team - Msdn Blog - Buck Woody - http://aka.ms/LearnAI-blog
+## Advanced Artificial Intelligence Trainings and Materials
++ LearnAI Team - Portal - http://aka.ms/LearnAI-portal
++ LearnAI Team - Public Trainings - http://aka.ms/LearnAI-trainings
++ LearnAI Team - Ethics Training - http://aka.ms/LearnAI-ethics
++ LearnAI Team - Useful Links - http://aka.ms/LearnAI-links
++ LearnAI Team - Computer Vision Bot Bootcamp - http://aka.ms/LearnAI-vision-bot 
++ LearnAI Team - Cognitive Search Workshop - http://aka.ms/LearnAI-csw
++ LearnAI Team - Designing and Architecting Intelligent Agents Trainig - http://aka.ms/LearnAI-daaia 
++ LearnAI Team - Trainig Partners Program - http://aka.ms/LearnAI-partners
++ LearnAI Team - Msdn Blog - Buck Woody - http://aka.ms/LearnAI-blog
 
 ## Microsoft Cognitive Services
 + Cognitive Services FULL Catalog - http://aka.ms/cscatalog 
