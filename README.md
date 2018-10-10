@@ -14,7 +14,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 
 ## Microsoft Cognitive Services
 + Cognitive Services FULL Catalog - http://aka.ms/cscatalog 
-+ Cognitive Search - https://docs.microsoft.com/en-us/azure/search/cognitive-search-concept-intro
++ Cognitive Search - http://aka.ms/cognitivesearch
 + CRIS - Custom Speech - https://aka.ms/cris
 + LUIS - Language Understanding - https://aka.ms/luis
 + Custom Vision - https://aka.ms/customvision
