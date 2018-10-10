@@ -20,7 +20,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Custom Vision - https://aka.ms/customvision
 + Q&A Maker - https://www.qnamaker.ai/
 + Video Indexer - https://www.videoindexer.ai/
-+ Decision Service - http://aka.ms/decisionservcice
++ Decision Service - http://aka.ms/decisionservice
 
 ## Microsoft AI Labs, Trainings, Products and Solutions
 + AI Platform - http://www.microsoft.com/ai
