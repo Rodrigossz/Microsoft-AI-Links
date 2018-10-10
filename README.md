@@ -15,11 +15,11 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 ## Microsoft Cognitive Services
 + Cognitive Services FULL Catalog - http://aka.ms/cscatalog 
 + Cognitive Search - http://aka.ms/cognitivesearch
-+ CRIS - Custom Speech - https://aka.ms/cris
-+ LUIS - Language Understanding - https://aka.ms/luis
-+ Custom Vision - https://aka.ms/customvision
-+ Q&A Maker - https://www.qnamaker.ai/
-+ Video Indexer - https://www.videoindexer.ai/
++ CRIS - Custom Speech - http://aka.ms/cris
++ LUIS - Language Understanding - http://aka.ms/luis
++ Custom Vision - http://aka.ms/customvision
++ Q&A Maker - http://www.qnamaker.ai/
++ Video Indexer - http://www.videoindexer.ai/
 + Decision Service - http://aka.ms/decisionservice
 
 ## Microsoft AI Labs, Trainings, Products and Solutions
