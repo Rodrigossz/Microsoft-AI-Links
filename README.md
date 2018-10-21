@@ -67,6 +67,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Azure to AWS Services Compare - http://docs.microsoft.com/en-us/azure/architecture/aws-professional/services
 + Visio Stencils for Azure and Cloud Diagrams - http://www.microsoft.com/en-us/download/details.aspx?id=41937
 + Azure commitment with GDPR - http://blogs.microsoft.com/on-the-issues/2017/02/15/get-gdpr-compliant-with-the-microsoft-cloud/
++ MD Files Chear Sheet - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 
 ## Microsoft Strategic Partnerships
