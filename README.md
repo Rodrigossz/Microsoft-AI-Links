@@ -92,11 +92,3 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Microsoft IoT Certified HW Partners - https://azure.microsoft.com/en-us/marketplace/certified-iot-partners/
 + Microsoft IoT Certified HW Devices - https://www.catalog.azureiotsolutions.com/
 + Microsoft IoT Customer Stories - http://customers.microsoft.com/en-us/search?sq=internet%20of%20things&ff=&p=0&so=story_publish_date%20desc
-
-## Useful AI Microsoft Internal Links
-+ Engineering Academy for AI - http://aka.ms/LearnAi
-+ Engineering Academy for Machine Learning - http://aka.ms/ai-cards
-+ Azure TV - http://aka.ms/AzureTV
-+ Infopedia AI Readiness - http://aka.ms/LearnAI_Readiness
-+ Compete - http://aka.ms/compete
-+ Gear Up - http://aka.ms/gearup
