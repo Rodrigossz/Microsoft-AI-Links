@@ -50,6 +50,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Cognitive Search Business Healthcare - CTakes - http://webmedsearch.azurewebsites.net/
 + Azure Time Series Insights - https://insights.timeseries.azure.com/demo
 + Computer Vision API - How Old? - https://www.how-old.net/#
++ Azure Search Query Engines Demo - Alice - https://alice.unearth.ai/
 
 ## Azure Utilities 
 + Microsoft Learning - http://www.microsoft.com/learn
