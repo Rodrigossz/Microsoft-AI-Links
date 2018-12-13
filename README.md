@@ -9,6 +9,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + LearnAI Team - Computer Vision Bot Bootcamp - http://aka.ms/LearnAI-vision-bot 
 + LearnAI Team - Knowledge Mining Bootcamp - http://aka.ms/LearnAI-kmb
 + LearnAI Team - Cognitive Search Workshop - http://aka.ms/LearnAI-csw
++ LearnAI Team - Azure Search Fundamentals - http://aka.ms/LearnAI-asf
 + LearnAI Team - Designing and Architecting Intelligent Agents Trainig - http://aka.ms/LearnAI-daaia 
 + LearnAI Team - Trainig Partners Program - http://aka.ms/LearnAI-partners
 + LearnAI Team - Msdn Blog - Buck Woody - http://aka.ms/LearnAI-blog
