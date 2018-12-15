@@ -34,6 +34,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + AI Lab - http://www.ailab.microsoft.com 
 + AI Open Methodology - Team Data Science Process - http://aka.ms/tdsp
 + AI Open Datasets - http://msropendata.com/
++ Azure Public Datasets - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-public-data-sets
 + AI Bots - http://aka.ms/bot
 + AI Professional Program - http://aka.ms/mppai
 + Bot Framework - https://dev.botframework.com/
