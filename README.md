@@ -15,6 +15,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + LearnAI Team - Msdn Blog - Buck Woody - http://aka.ms/LearnAI-blog
 + LearnAI Team - LUIS training -https://channel9.msdn.com/Shows/AI-Show/LearnAI-LUIS--Notes-from-the-Field
 + LearnAI Team - Bing Search and BOTS training - https://channel9.msdn.com/Shows/AI-Show/LearnAI-Adding-Bing-Search-to-Bots
++ LearnAI Team - Blog post - LUIS Notes from the Field - http://aka.ms/luis-notes
 
 
 ## Microsoft Cognitive Services
