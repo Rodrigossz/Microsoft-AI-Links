@@ -13,6 +13,9 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + LearnAI Team - Designing and Architecting Intelligent Agents Trainig - http://aka.ms/LearnAI-daaia 
 + LearnAI Team - Trainig Partners Program - http://aka.ms/LearnAI-partners
 + LearnAI Team - Msdn Blog - Buck Woody - http://aka.ms/LearnAI-blog
++ LearnAI Team - LUIS training -https://channel9.msdn.com/Shows/AI-Show/LearnAI-LUIS--Notes-from-the-Field
++ LearnAI Team - Bing Search and BOTS training - https://channel9.msdn.com/Shows/AI-Show/LearnAI-Adding-Bing-Search-to-Bots
+
 
 ## Microsoft Cognitive Services
 + Cognitive Services FULL Catalog - http://aka.ms/cscatalog 
