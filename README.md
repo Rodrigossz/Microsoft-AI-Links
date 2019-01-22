@@ -6,9 +6,9 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + LearnAI Team - Public Trainings - http://aka.ms/LearnAI-trainings
 + LearnAI Team - Ethics Training - http://aka.ms/LearnAI-ethics
 + LearnAI Team - Useful Links - http://aka.ms/LearnAI-links
-+ LearnAI Team - Cognitive Services Bootcamp - http://aka.ms/LearnAI-vision-bot 
++ LearnAI Team - Cognitive Services Bootcamp - http://aka.ms/LearnAI-csb
 + LearnAI Team - Knowledge Mining Bootcamp - http://aka.ms/LearnAI-kmb
-+ LearnAI Team - AI Airlift - http://aka.ms/LearnAI-Airlift
++ LearnAI Team - AI Airlift (csb + kmb) - http://aka.ms/LearnAI-Airlift
 + LearnAI Team - Azure Search Fundamentals - http://aka.ms/LearnAI-asf
 + LearnAI Team - Designing and Architecting Intelligent Agents Trainig - http://aka.ms/LearnAI-daaia 
 + LearnAI Team - Trainig Partners Program - http://aka.ms/LearnAI-partners
