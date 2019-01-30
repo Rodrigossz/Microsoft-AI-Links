@@ -58,6 +58,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Computer Vision API - How Old? - https://www.how-old.net/#
 + Azure Search Query Engines Demo - Alice - https://alice.unearth.ai/
 + Forms Understanding Demo - https://formdemoux.azurewebsites.net/
++ Azure Search - Jobs Demos - http://azjobsdemo.azurewebsites.net/
 
 ## Azure Utilities 
 + Microsoft Learning - http://www.microsoft.com/learn
