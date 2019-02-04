@@ -61,6 +61,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 
 ## Bots
 + Bot Framework - https://dev.botframework.com/
++ Bots Services Overview - https://docs.microsoft.com/en-us/azure/bot-service/bot-service-overview-introduction?view=azure-bot-service-4.0
 + Ppt - How AI chatbots are transforming businesses - http://aka.ms/bot
 + Bots + Speech to Text - https://blog.botframework.com/2017/06/26/Speech-To-Text/ 
 + Bots Scenarios - https://docs.microsoft.com/en-us/azure/bot-service/bot-service-scenario-overview
