@@ -39,9 +39,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + AI Open Methodology - Team Data Science Process - http://aka.ms/tdsp
 + AI Open Datasets - http://msropendata.com/
 + Azure Public Datasets - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-public-data-sets
-+ AI Bots - http://aka.ms/bot
 + AI Professional Program - http://aka.ms/mppai
-+ Bot Framework - https://dev.botframework.com/
 + Azure Machine Learning - Python SDK - http://aka.ms/aml-sdk
 + Azure Machine Learning - Data Preparation SDK - http://aka.ms/dataprep-sdk
 + Azure Machine Learning Studio - http://aka.ms/amlstudio
@@ -60,6 +58,19 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Forms Understanding Demo - https://formdemoux.azurewebsites.net/
 + Azure Search - Jobs Demos - http://azjobsdemo.azurewebsites.net/
 + Cognitive Search Art Explorer - http://artexplorer.azurewebsites.net/
+
+## Bots
++ Bot Framework - https://dev.botframework.com/
++ Ppt - How AI chatbots are transforming businesses - http://aka.ms/bot
++ Bots + Speech to Text - https://blog.botframework.com/2017/06/26/Speech-To-Text/ 
++ Bots Scenarios - https://docs.microsoft.com/en-us/azure/bot-service/bot-service-scenario-overview
++ Bots Reference Architectures - https://azure.microsoft.com/en-us/solutions/architecture/?product=bot-service 
++ Add Intelligence to Bots - https://review.docs.microsoft.com/en-us/Bot-Framework/bot-service-concept-intelligence?branch=master
++ Bots New documentation - https://review.docs.microsoft.com/en-us/Bot-Framework/index#pivot=main&panel=overview
++ Bots on Bing Results - https://www.bing.com/search?q=moksha%20Bellevue 
++ Top Bots on Bing Results - https://www.bing.com/search?q=top+bots&go=Search&qs=ds&form=QBRE 
++ Bot Emulator - https://aka.ms/botemulator 
++ Bot Middleware and State Management - https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-concept-middleware?view=azure-bot-service-4.0 
 
 ## Azure Utilities 
 + Microsoft Learning - http://www.microsoft.com/learn
