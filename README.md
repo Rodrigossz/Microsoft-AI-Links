@@ -24,6 +24,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Cognitive Search - http://aka.ms/cognitivesearch
 + Decision Service - http://aka.ms/decisionservice
 + CRIS - Custom Speech - http://cris.ai/
+
 + LUIS - Language Understanding - http://luis.ai
 + Custom Vision - http://customvision.ai
 + Q&A Maker - http://qnamaker.ai/
@@ -72,6 +73,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Top Bots on Bing Results - https://www.bing.com/search?q=top+bots&go=Search&qs=ds&form=QBRE 
 + Bot Emulator - https://aka.ms/botemulator 
 + Bot Middleware and State Management - https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-concept-middleware?view=azure-bot-service-4.0 
++ Responsible Bots Principles - https://www.microsoft.com/en-us/research/publication/responsible-bots/
 
 ## Azure Utilities 
 + Microsoft Learning - http://www.microsoft.com/learn
