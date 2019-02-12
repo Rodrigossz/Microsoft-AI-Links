@@ -45,6 +45,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Azure Machine Learning - Data Preparation SDK - http://aka.ms/dataprep-sdk
 + Azure Machine Learning Studio - http://aka.ms/amlstudio
 + Azure Automated ML - https://docs.microsoft.com/en-us/azure/machine-learning/service/tutorial-auto-train-models
++ Azure Automated ML Models - https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-automated-ml?WT.mc_id=docs-presentation-lazzeri
 
 ## Demos
 + Cognitive Services Enrichment Pipeline - https://text-analytics-demo-dev.azurewebsites.net/
