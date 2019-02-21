@@ -60,6 +60,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Forms Understanding Demo - https://formdemoux.azurewebsites.net/
 + Azure Search - Jobs Demos - http://azjobsdemo.azurewebsites.net/
 + Cognitive Search Art Explorer - http://artexplorer.azurewebsites.net/
++ Cognitive Search - Web Med Search - http://webmedsearch.azurewebsites.net/
 
 ## Bots
 + Bot Framework - https://dev.botframework.com/
@@ -75,6 +76,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Bot Emulator - https://aka.ms/botemulator 
 + Bot Middleware and State Management - https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-concept-middleware?view=azure-bot-service-4.0 
 + Responsible Bots Principles - https://www.microsoft.com/en-us/research/publication/responsible-bots/
++ Reference Architecture - Conversational Bot - https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/ai/conversational-bot
 
 ## Azure Utilities 
 + Microsoft Learning - http://www.microsoft.com/learn
