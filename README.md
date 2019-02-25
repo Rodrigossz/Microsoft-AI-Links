@@ -24,11 +24,16 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Cognitive Search - http://aka.ms/cognitivesearch
 + Decision Service - http://aka.ms/decisionservice
 + CRIS - Custom Speech - http://cris.ai/
-
 + LUIS - Language Understanding - http://luis.ai
 + Custom Vision - http://customvision.ai
 + Q&A Maker - http://qnamaker.ai/
 + Video Indexer - http://videoindexer.ai/
++ Azure Cognitive Services - http://www.azure.com/cognitive
+
+## Data
++ AI Open Datasets - http://msropendata.com/
++ Azure Public Datasets - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-public-data-sets
++ Open Data Initiative - https://www.microsoft.com/en-us/open-data-initiative
 
 ## Microsoft AI Labs, Trainings, Products and Solutions
 + AI Platform - http://www.microsoft.com/ai
@@ -38,8 +43,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + AI Landscape - http://aka.ms/ai-landscape
 + AI Lab - http://www.ailab.microsoft.com 
 + AI Open Methodology - Team Data Science Process - http://aka.ms/tdsp
-+ AI Open Datasets - http://msropendata.com/
-+ Azure Public Datasets - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-public-data-sets
+
 + AI Professional Program - http://aka.ms/mppai
 + Azure Machine Learning - Python SDK - http://aka.ms/aml-sdk
 + Azure Machine Learning - Data Preparation SDK - http://aka.ms/dataprep-sdk
