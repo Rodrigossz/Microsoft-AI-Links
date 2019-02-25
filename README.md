@@ -83,6 +83,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Reference Architecture - Conversational Bot - https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/ai/conversational-bot
 
 ## Azure Utilities 
++ Azure Readiness - http://aka.ms/azreadiness
 + Microsoft Learning - http://www.microsoft.com/learn
 + Architecture Center - http://docs.microsoft.com/en-us/azure/architecture/
 + Solution Architectures - http://azure.microsoft.com/en-us/solutions/architecture/
