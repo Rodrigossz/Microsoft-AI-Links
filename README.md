@@ -18,10 +18,21 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + LearnAI Team - Blog post - LUIS Notes from the Field - http://aka.ms/luis-notes
 
 ## LearnAI Videos
-+ Knowledge Mining Mini Workshop Part 1 (Internal) - https://msit.microsoftstream.com/video/6959cdaa-0a7d-43c6-b233-a9ea6338d801
-+ Knowledge Mining Mini Workshop Part 1 (External) - https://infopedia.eventbuilder.com/event?eventid=r2x4n8
-+ Knowledge Mining Mini Workshop Part 2 (Internal) - https://msit.microsoftstream.com/video/8524735b-eee6-4f26-ad04-a35c17c3cd62
-+ Knowledge Mining Mini Workshop Part 2 (External) - https://infopedia.eventbuilder.com/event?eventid=a1i8p5
+
+### Knowledge Mining Workshop
+
++ Mini Workshop Part 1 (Internal) - https://msit.microsoftstream.com/video/6959cdaa-0a7d-43c6-b233-a9ea6338d801
++ Mini Workshop Part 1 (External) - https://infopedia.eventbuilder.com/event?eventid=r2x4n8
++ Mining Mini Workshop Part 2 (Internal) - https://msit.microsoftstream.com/video/8524735b-eee6-4f26-ad04-a35c17c3cd62
++ Mining Mini Workshop Part 2 (External) - https://infopedia.eventbuilder.com/event?eventid=a1i8p5
+
+### Luis Best Practices
++ Notes From the Field - https://www.youtube.com/watch?v=dRghtMiOBas
+
+### Cognitive Services Bootcamp
++ Bootcamp (Vision, Custom Vision, LUIS, Azure Search) Part 1 - https://www.youtube.com/watch?v=vgo87Xzd8a0&t=
++ Bootcamp (Vision, Custom Vision, LUIS, Azure Search) Part 2 - https://www.youtube.com/watch?v=eHsNI0AeQQI&t=
+
 
 ## Microsoft Cognitive Services
 + Cognitive Services FULL Catalog - http://aka.ms/cscatalog 
