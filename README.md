@@ -1,41 +1,42 @@
 # Microsoft's LearnAI Team - Links
+
 Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within Microsoft Platform
 
-## LearnAI Materials - Advanced Artificial Intelligence Trainings and Materials
-+ LearnAI Team - Portal - http://aka.ms/LearnAI-portal
-+ LearnAI Team - Public Trainings - http://aka.ms/LearnAI-trainings
-+ LearnAI Team - Ethics Training - http://aka.ms/LearnAI-ethics
-+ LearnAI Team - Useful Links - http://aka.ms/LearnAI-links
+## LearnAI Key Information
+
++ Portal - http://aka.ms/LearnAI-portal
++ Public Trainings - http://aka.ms/LearnAI-trainings
++ Ethics Training - http://aka.ms/LearnAI-ethics
++ Useful Links - http://aka.ms/LearnAI-links
++ LearnAI Team - Trainig Partners Program - http://aka.ms/LearnAI-partners
+
+## LearnAI Trainings
+
 + LearnAI Team - Cognitive Services Bootcamp - http://aka.ms/LearnAI-csb
 + LearnAI Team - Knowledge Mining Bootcamp - http://aka.ms/LearnAI-kmb
 + LearnAI Team - AI Airlift (csb + kmb) - http://aka.ms/LearnAI-Airlift
 + LearnAI Team - Custom AI Airlift - https://github.com/Azure/LearnAI-CustomAI-Airlift
 + LearnAI Team - Azure Search Fundamentals - http://aka.ms/LearnAI-asf
 + LearnAI Team - Designing and Architecting Intelligent Agents Trainig - http://aka.ms/LearnAI-daaia 
-+ LearnAI Team - Trainig Partners Program - http://aka.ms/LearnAI-partners
-+ LearnAI Team - Msdn Blog - Buck Woody - http://aka.ms/LearnAI-blog
-+ LearnAI Team - LUIS training -https://channel9.msdn.com/Shows/AI-Show/LearnAI-LUIS--Notes-from-the-Field
-+ LearnAI Team - Bing Search and BOTS training - https://channel9.msdn.com/Shows/AI-Show/LearnAI-Adding-Bing-Search-to-Bots
-+ LearnAI Team - Blog post - LUIS Notes from the Field - http://aka.ms/luis-notes
 
 ## LearnAI Videos
 
-### Knowledge Mining Workshop
+#### Knowledge Mining Workshop
 
 + Mini Workshop Part 1 (Internal) - https://msit.microsoftstream.com/video/6959cdaa-0a7d-43c6-b233-a9ea6338d801
 + Mini Workshop Part 1 (External) - https://infopedia.eventbuilder.com/event?eventid=r2x4n8
-+ Mining Mini Workshop Part 2 (Internal) - https://msit.microsoftstream.com/video/8524735b-eee6-4f26-ad04-a35c17c3cd62
-+ Mining Mini Workshop Part 2 (External) - https://infopedia.eventbuilder.com/event?eventid=a1i8p5
++ Mini Workshop Part 2 (Internal) - https://msit.microsoftstream.com/video/8524735b-eee6-4f26-ad04-a35c17c3cd62
++ Mini Workshop Part 2 (External) - https://infopedia.eventbuilder.com/event?eventid=a1i8p5
 
-### Luis Best Practices
-+ Notes From the Field - https://www.youtube.com/watch?v=dRghtMiOBas
+#### Cognitive Services
 
-### Cognitive Services Bootcamp
 + Bootcamp (Vision, Custom Vision, LUIS, Azure Search) Part 1 - https://www.youtube.com/watch?v=vgo87Xzd8a0&t=
 + Bootcamp (Vision, Custom Vision, LUIS, Azure Search) Part 2 - https://www.youtube.com/watch?v=eHsNI0AeQQI&t=
-
++ Bing Search and BOTS training - https://channel9.msdn.com/Shows/AI-Show/LearnAI-Adding-Bing-Search-to-Bots
++ LUIS - Notes From the Field - https://www.youtube.com/watch?v=dRghtMiOBas
 
 ## Microsoft Cognitive Services
+
 + Cognitive Services FULL Catalog - http://aka.ms/cscatalog 
 + Cognitive Services Portal - http://azure.microsoft.com/en-us/services/cognitive-services/
 + Cognitive Search - http://aka.ms/cognitivesearch
@@ -48,12 +49,14 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Azure Cognitive Services - http://www.azure.com/cognitive
 + LUIS Best Practices - https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-concept-best-practices
 
-## Data
+## Datasets
+
 + AI Open Datasets - http://msropendata.com/
 + Azure Public Datasets - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-public-data-sets
 + Open Data Initiative - https://www.microsoft.com/en-us/open-data-initiative
 
 ## Microsoft AI Labs, Trainings, Products and Solutions
+
 + AI Platform - http://www.microsoft.com/ai
 + AI Customer Stories - https://www.microsoft.com/en-us/ai/customer-stories 
 + AI Gallery - http://aka.ms/aigallery
@@ -69,6 +72,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Azure Automated ML Models - https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-automated-ml?WT.mc_id=docs-presentation-lazzeri
 
 ## Demos
+
 + Cognitive Services Enrichment Pipeline - https://text-analytics-demo-dev.azurewebsites.net/
 + Cognitive Search Official Demo - JFK Files - https://jfk-demo.azurewebsites.net/
 + Cognitive Search Official Code - JFK Files - https://github.com/Microsoft/AzureSearch_JFK_Files
@@ -84,23 +88,25 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Cognitive Search - Web Med Search - http://webmedsearch.azurewebsites.net/
 
 ## Bots
-+ Bots Framework - https://dev.botframework.com/
-+ Bots Overview - https://docs.microsoft.com/en-us/azure/bot-service/bot-service-overview-introduction?view=azure-bot-service-4.0
+
++ Framework - https://dev.botframework.com/
++ Overview - https://docs.microsoft.com/en-us/azure/bot-service/bot-service-overview-introduction?view=azure-bot-service-4.0
 + How AI chatbots are transforming businesses - http://aka.ms/bot
 + Bots + Speech to Text - https://blog.botframework.com/2017/06/26/Speech-To-Text/ 
-+ Bots Scenarios - https://docs.microsoft.com/en-us/azure/bot-service/bot-service-scenario-overview
-+ Bots Reference Architectures - https://azure.microsoft.com/en-us/solutions/architecture/?product=bot-service 
++ Scenarios - https://docs.microsoft.com/en-us/azure/bot-service/bot-service-scenario-overview
++ Reference Architectures - https://azure.microsoft.com/en-us/solutions/architecture/?product=bot-service 
 + Add Intelligence to Bots - https://review.docs.microsoft.com/en-us/Bot-Framework/bot-service-concept-intelligence?branch=master
 + Bots on Bing Results - https://www.bing.com/search?q=moksha%20Bellevue 
 + Top Bots on Bing Results - https://www.bing.com/search?q=top+bots&go=Search&qs=ds&form=QBRE 
-+ Bots Emulator - https://aka.ms/botemulator 
-+ Bots Middleware and State Management - https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-concept-middleware?view=azure-bot-service-4.0 
-+ Bots Principles - https://www.microsoft.com/en-us/research/publication/responsible-bots/
++ Emulator - https://aka.ms/botemulator 
++ Middleware & State Mngmt. - https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-concept-middleware?view=azure-bot-service-4.0 
++ Principles - https://www.microsoft.com/en-us/research/publication/responsible-bots/
 + Conversational Bot - https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/ai/conversational-bot
-+ Bots with Multiples LUIS and QnA Models - https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-tutorial-dispatch?view=azure-bot-service-4.0&tabs=csharp
++ Multiples LUIS and QnA Models - https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-tutorial-dispatch?view=azure-bot-service-4.0&tabs=csharp
 + Health Care Bot - https://docs.microsoft.com/en-us/healthbot/
 
 ## Azure Utilities 
+
 + Azure Readiness - http://aka.ms/azreadiness
 + Microsoft Learning - http://www.microsoft.com/learn
 + Architecture Center - http://docs.microsoft.com/en-us/azure/architecture/
@@ -122,6 +128,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 
 
 ## Microsoft Strategic Partnerships
+
 + AI - ONNX - Facebook and AWS - https://onnx.ai/
 + AI - Open Data - Adobe and SAP - http://text-analytics-demo-dev.azurewebsites.net/
 + AI - Cortana/Alexa Integration - AWS - https://blogs.microsoft.com/blog/2017/08/30/hey-cortana-open-alexa-microsoft-amazons-first-kind-collaboration/
@@ -133,6 +140,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 
 
 ## Azure IoT
+
 + Microsoft IoT Edge Marketplace -  http://aka.ms/iot-edge-marketplace
 + Microsoft IoT Edge Toolkit - https://github.com/Azure/ai-toolkit-iot-edge
 + Microsoft IoT Device Twins - https://azure.microsoft.com/en-us/services/digital-twins/
