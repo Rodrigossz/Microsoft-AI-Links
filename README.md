@@ -45,6 +45,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Q&A Maker - http://qnamaker.ai/
 + Video Indexer - http://videoindexer.ai/
 + Azure Cognitive Services - http://www.azure.com/cognitive
++ LUIS Best Practices - https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-concept-best-practices
 
 ## Data
 + AI Open Datasets - http://msropendata.com/
@@ -59,7 +60,6 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + AI Landscape - http://aka.ms/ai-landscape
 + AI Lab - http://www.ailab.microsoft.com 
 + AI Open Methodology - Team Data Science Process - http://aka.ms/tdsp
-
 + AI Professional Program - http://aka.ms/mppai
 + Azure Machine Learning - Python SDK - http://aka.ms/aml-sdk
 + Azure Machine Learning - Data Preparation SDK - http://aka.ms/dataprep-sdk
@@ -83,20 +83,21 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Cognitive Search - Web Med Search - http://webmedsearch.azurewebsites.net/
 
 ## Bots
-+ Bot Framework - https://dev.botframework.com/
-+ Bots Services Overview - https://docs.microsoft.com/en-us/azure/bot-service/bot-service-overview-introduction?view=azure-bot-service-4.0
-+ Ppt - How AI chatbots are transforming businesses - http://aka.ms/bot
++ Bots Framework - https://dev.botframework.com/
++ Bots Overview - https://docs.microsoft.com/en-us/azure/bot-service/bot-service-overview-introduction?view=azure-bot-service-4.0
++ How AI chatbots are transforming businesses - http://aka.ms/bot
 + Bots + Speech to Text - https://blog.botframework.com/2017/06/26/Speech-To-Text/ 
 + Bots Scenarios - https://docs.microsoft.com/en-us/azure/bot-service/bot-service-scenario-overview
 + Bots Reference Architectures - https://azure.microsoft.com/en-us/solutions/architecture/?product=bot-service 
 + Add Intelligence to Bots - https://review.docs.microsoft.com/en-us/Bot-Framework/bot-service-concept-intelligence?branch=master
-+ Bots New documentation - https://review.docs.microsoft.com/en-us/Bot-Framework/index#pivot=main&panel=overview
 + Bots on Bing Results - https://www.bing.com/search?q=moksha%20Bellevue 
 + Top Bots on Bing Results - https://www.bing.com/search?q=top+bots&go=Search&qs=ds&form=QBRE 
-+ Bot Emulator - https://aka.ms/botemulator 
-+ Bot Middleware and State Management - https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-concept-middleware?view=azure-bot-service-4.0 
-+ Responsible Bots Principles - https://www.microsoft.com/en-us/research/publication/responsible-bots/
-+ Reference Architecture - Conversational Bot - https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/ai/conversational-bot
++ Bots Emulator - https://aka.ms/botemulator 
++ Bots Middleware and State Management - https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-concept-middleware?view=azure-bot-service-4.0 
++ Bots Principles - https://www.microsoft.com/en-us/research/publication/responsible-bots/
++ Conversational Bot - https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/ai/conversational-bot
++ Bots with Multiples LUIS and QnA Models - https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-tutorial-dispatch?view=azure-bot-service-4.0&tabs=csharp
++ Health Care Bot - https://docs.microsoft.com/en-us/healthbot/
 
 ## Azure Utilities 
 + Azure Readiness - http://aka.ms/azreadiness
