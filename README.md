@@ -48,6 +48,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Video Indexer - http://videoindexer.ai/
 + Azure Cognitive Services - http://www.azure.com/cognitive
 + LUIS Best Practices - https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-concept-best-practices
++ LUIS Services Limits - https://docs.microsoft.com/en-in/azure/cognitive-services/luis/luis-boundaries
 
 ## Datasets
 
@@ -97,12 +98,12 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Reference Architectures - https://azure.microsoft.com/en-us/solutions/architecture/?product=bot-service 
 + Add Intelligence to Bots - https://review.docs.microsoft.com/en-us/Bot-Framework/bot-service-concept-intelligence?branch=master
 + Bots on Bing Results - https://www.bing.com/search?q=moksha%20Bellevue 
-+ Top Bots on Bing Results - https://www.bing.com/search?q=top+bots&go=Search&qs=ds&form=QBRE 
++ Top Bots - https://www.bing.com/search?q=top+bots&go=Search&qs=ds&form=QBRE 
 + Emulator - https://aka.ms/botemulator 
-+ Middleware & State Mngmt. - https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-concept-middleware?view=azure-bot-service-4.0 
++ State Mngmt. - https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-concept-middleware?view=azure-bot-service-4.0 
 + Principles - https://www.microsoft.com/en-us/research/publication/responsible-bots/
 + Conversational Bot - https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/ai/conversational-bot
-+ Multiples LUIS and QnA Models - https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-tutorial-dispatch?view=azure-bot-service-4.0&tabs=csharp
++ Dispatch Tool - https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-tutorial-dispatch?view=azure-bot-service-4.0&tabs=csharp
 + Health Care Bot - https://docs.microsoft.com/en-us/healthbot/
 
 ## Azure Utilities 
