@@ -87,6 +87,8 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Azure Search - Jobs Demos - http://azjobsdemo.azurewebsites.net/
 + Cognitive Search Art Explorer - http://artexplorer.azurewebsites.net/
 + Cognitive Search - Web Med Search - http://webmedsearch.azurewebsites.net/
++ Intelligent Kiosk - http://aka.ms/kioskapp
+
 
 ## Bots
 
