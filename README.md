@@ -108,6 +108,16 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Dispatch Tool - https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-tutorial-dispatch?view=azure-bot-service-4.0&tabs=csharp
 + Health Care Bot - https://docs.microsoft.com/en-us/healthbot/
 
+## Data & AI Certifications
++ Tradictional Azure Certifications - aka.ms/ExamsAzure
++ Msft Internal Only - http://aka.ms/vouchers
++ Learning Path for the new AI Certifications - http://aka.ms/AzureAIEngLearning
++ AI Engineer - AI 100 - https://www.microsoft.com/en-us/learning/exam-AI-100.aspx
++ AI Data Science - DP 100 - https://www.microsoft.com/en-us/learning/exam-DP-100.aspx
++ Implementing Azure Data Solutions - DP 200 - https://www.microsoft.com/en-us/learning/azure-data-engineer.aspx
++ Designing Azure Data Solutions - DP 201 - https://www.microsoft.com/en-us/learning/exam-DP-201.aspx
++ AI Data Engineer (DP 200 + DP 201) - https://www.microsoft.com/en-us/learning/azure-data-engineer.aspx
+
 ## Azure Utilities 
 
 + Azure Readiness - http://aka.ms/azreadiness
