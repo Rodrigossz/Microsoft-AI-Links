@@ -88,7 +88,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Cognitive Search Art Explorer - http://artexplorer.azurewebsites.net/
 + Cognitive Search - Web Med Search - http://webmedsearch.azurewebsites.net/
 + Intelligent Kiosk - http://aka.ms/kioskapp
-
++ Intelligent Kiosk Code - https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk
 
 ## Bots
 
