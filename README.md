@@ -109,7 +109,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Health Care Bot - https://docs.microsoft.com/en-us/healthbot/
 
 ## Data & AI Certifications
-+ Tradictional Azure Certifications - aka.ms/ExamsAzure
++ Tradictional Azure Certifications - http://aka.ms/ExamsAzure
 + Msft Internal Only - http://aka.ms/vouchers
 + Learning Path for the new AI Certifications - http://aka.ms/AzureAIEngLearning
 + AI Engineer - AI 100 - https://www.microsoft.com/en-us/learning/exam-AI-100.aspx
