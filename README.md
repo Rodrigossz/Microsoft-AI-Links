@@ -118,6 +118,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Designing Azure Data Solutions - DP 201 - https://www.microsoft.com/en-us/learning/exam-DP-201.aspx
 + AI Data Engineer (DP 200 + DP 201) - https://www.microsoft.com/en-us/learning/azure-data-engineer.aspx
 + New certifications blog post - http://aka.ms/ai-certs
++ MesuareUp - Exams Practices - https://mslibrary.measureup.com/
 
 ## Azure Utilities 
 
