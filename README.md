@@ -140,6 +140,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Azure commitment with GDPR - http://blogs.microsoft.com/on-the-issues/2017/02/15/get-gdpr-compliant-with-the-microsoft-cloud/
 + MD Files Chear Sheet - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 + Microsft Presentation Translator - http://aka.ms/presentationtranslator
++ Azure Services Map - https://nnmer.github.io/azure-services-map/dist/
 
 
 ## Microsoft Strategic Partnerships
