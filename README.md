@@ -49,6 +49,9 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Azure Cognitive Services - http://www.azure.com/cognitive
 + LUIS Best Practices - https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-concept-best-practices
 + LUIS Services Limits - https://docs.microsoft.com/en-in/azure/cognitive-services/luis/luis-boundaries
++ Roadmap (Internal Only) - http://aka.ms/csrmap
++ Containers - http://aka.ms/cscontainers
++ Containers Dev Samples - http://aka.ms/containersmples
 
 ## Datasets
 
