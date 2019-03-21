@@ -51,7 +51,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + LUIS Services Limits - https://docs.microsoft.com/en-in/azure/cognitive-services/luis/luis-boundaries
 + Roadmap (Internal Only) - http://aka.ms/csrmap
 + Containers - http://aka.ms/cscontainers
-+ Containers Dev Samples - http://aka.ms/containersmples
++ Containers Dev Samples - http://aka.ms/containersamples
 
 ## Datasets
 
