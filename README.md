@@ -9,6 +9,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Ethics Training - http://aka.ms/LearnAI-ethics
 + Useful Links - http://aka.ms/LearnAI-links
 + LearnAI Team - Trainig Partners Program - http://aka.ms/LearnAI-partners
++ Azure AI Twitter - https://twitter.com/AzureaiM
 
 ## LearnAI Trainings
 
