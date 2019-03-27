@@ -87,6 +87,10 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Azure Automated ML - https://docs.microsoft.com/en-us/azure/machine-learning/service/tutorial-auto-train-models
 + Azure Automated ML Models - https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-automated-ml?WT.mc_id=docs-presentation-lazzeri
 
+## Volunteer
++ My Skills for Africa - https://myskills.microsoft.com/4Afrika
++ Give - https://give/
+
 ## Demos
 
 + Cognitive Services Enrichment Pipeline - https://text-analytics-demo-dev.azurewebsites.net/
