@@ -63,6 +63,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Power BI + Automated ML - https://www.zdnet.com/article/power-bi-delivers-ai-power/
 + Containers support for Cognitive Services - https://docs.microsoft.com/en-us/azure/cognitive-services/cognitive-services-container-support
 + New Microsoft AI Certifications - https://www.microsoft.com/en-us/learning/browse-new-certification.aspx 
++ Microsoft Vision AI Developer Kit - https://azure.microsoft.com/en-us/blog/accelerating-ai-on-the-intelligent-edge-microsoft-and-qualcomm-create-vision-ai-developer-kit/
 
 ## Datasets
 
@@ -86,6 +87,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Azure Machine Learning Studio - http://aka.ms/amlstudio
 + Azure Automated ML - https://docs.microsoft.com/en-us/azure/machine-learning/service/tutorial-auto-train-models
 + Azure Automated ML Models - https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-automated-ml?WT.mc_id=docs-presentation-lazzeri
++ Microsoft + Qualcom Vision AI - https://visionaidevkit.com/ 
 
 ## Volunteer
 + My Skills for Africa - https://myskills.microsoft.com/4Afrika
