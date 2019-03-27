@@ -53,6 +53,16 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Roadmap (Internal Only) - http://aka.ms/csrmap
 + Containers - http://aka.ms/cscontainers
 + Containers Dev Samples - http://aka.ms/containersamples
++ Kensho - Anomally Detector - Portal - https://kensho2
++ Kensho - Anomally Detector - Wiki - https://aka.ms/kensho2
+
+## Breaking News - March 2019
+
++ Anomally Detector public preview - https://azure.microsoft.com/en-us/services/cognitive-services/anomaly-detector/
++ Microsoft AI Business School - https://www.microsoft.com/en-us/ai/ai-business-school
++ Power BI + Automated ML - https://www.zdnet.com/article/power-bi-delivers-ai-power/
++ Containers support for Cognitive Services - https://docs.microsoft.com/en-us/azure/cognitive-services/cognitive-services-container-support
++ New Microsoft AI Certifications - https://www.microsoft.com/en-us/learning/browse-new-certification.aspx 
 
 ## Datasets
 
@@ -66,6 +76,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + AI Customer Stories - https://www.microsoft.com/en-us/ai/customer-stories 
 + AI Gallery - http://aka.ms/aigallery
 + AI School - http://aka.ms/ai-school
++ AI Business School - https://www.microsoft.com/en-us/ai/ai-business-school
 + AI Landscape - http://aka.ms/ai-landscape
 + AI Lab - http://www.ailab.microsoft.com 
 + AI Open Methodology - Team Data Science Process - http://aka.ms/tdsp
