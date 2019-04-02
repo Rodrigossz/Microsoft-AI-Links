@@ -132,14 +132,15 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 ## Data & AI Certifications
 + Tradictional Azure Certifications - http://aka.ms/ExamsAzure
 + Msft Internal Only - http://aka.ms/vouchers
-+ Learning Path for the new AI Certifications - http://aka.ms/AzureAIEngLearning
-+ AI Engineer - AI 100 - https://www.microsoft.com/en-us/learning/exam-AI-100.aspx
-+ AI Data Science - DP 100 - https://www.microsoft.com/en-us/learning/exam-DP-100.aspx
-+ Implementing Azure Data Solutions - DP 200 - https://www.microsoft.com/en-us/learning/azure-data-engineer.aspx
-+ Designing Azure Data Solutions - DP 201 - https://www.microsoft.com/en-us/learning/exam-DP-201.aspx
-+ AI Data Engineer (DP 200 + DP 201) - https://www.microsoft.com/en-us/learning/azure-data-engineer.aspx
-+ New certifications blog post - http://aka.ms/ai-certs
 + MesuareUp - Exams Practices - https://mslibrary.measureup.com/
++ New Certifications
+  + AI Engineer - https://www.microsoft.com/en-us/learning/azure-ai-engineer.aspx 
+  + AI Data Scientist - https://www.microsoft.com/en-us/learning/azure-ai-engineer.aspx
+  + Data Engineer - https://www.microsoft.com/en-us/learning/azure-data-engineer.aspx
+  + New certifications blog post - http://aka.ms/ai-certs
+  + Learning Path for the new AI Certifications - http://aka.ms/AzureAIEngLearning
+
+
 
 ## Azure Utilities 
 
