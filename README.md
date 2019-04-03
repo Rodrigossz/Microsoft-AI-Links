@@ -142,8 +142,9 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 
 
 
-## Azure Utilities 
+## Utilities 
 
++ Technical Writing Tips - https://docs.microsoft.com/en-us/style-guide/top-10-tips-style-voice
 + Azure Readiness - http://aka.ms/azreadiness
 + Microsoft Learning - http://www.microsoft.com/learn
 + Architecture Center - http://docs.microsoft.com/en-us/azure/architecture/
