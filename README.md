@@ -53,8 +53,8 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Roadmap (Internal Only) - http://aka.ms/csrmap
 + Containers - http://aka.ms/cscontainers
 + Containers Dev Samples - http://aka.ms/containersamples
-+ Kensho - Anomally Detector - Portal - https://kensho2
-+ Kensho - Anomally Detector - Wiki - https://aka.ms/kensho2
++	Anomaly Detector - Portal - https://azure.microsoft.com/en-us/services/cognitive-services/anomaly-detector/
++	Anomaly Detector - Wiki - https://docs.microsoft.com/en-us/azure/cognitive-services/anomaly-detector/
 
 ## Breaking News - March 2019
 
