@@ -140,7 +140,10 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
   + New certifications blog post - http://aka.ms/ai-certs
   + Learning Path for the new AI Certifications - http://aka.ms/AzureAIEngLearning
 
+# Partners
 
++ AI Partner Program - https://aipartner.microsoft.com/
++ LearnAI Team - Trainig Partners Program - http://aka.ms/LearnAI-partners
 
 ## Utilities 
 
@@ -165,7 +168,6 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Microsft Presentation Translator - http://aka.ms/presentationtranslator
 + Azure Services Map - https://nnmer.github.io/azure-services-map/dist/
 
-
 ## Microsoft Strategic Partnerships
 
 + AI - ONNX - Facebook and AWS - https://onnx.ai/
@@ -176,7 +178,6 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + IIoT - AspenTech - http://www.intelligenttechchannels.com/aspentech-to-host-on-microsoft-azure-to-deliver-iiot-asset-management-analytics/
 + IIoT - Cisco - https://azure.microsoft.com/en-us/blog/microsoft-and-cisco-enable-azure-iot-suite-to-connect-to-cisco-fog-deployments/
 + IIoT - Osisoft - https://www.osisoft.com/uploadedFiles/Content/Content_Modules/wp-azure-iot-lt.pdf
-
 
 ## Azure IoT
 
