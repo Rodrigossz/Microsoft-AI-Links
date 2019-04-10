@@ -140,7 +140,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
   + New certifications blog post - http://aka.ms/ai-certs
   + Learning Path for the new AI Certifications - http://aka.ms/AzureAIEngLearning
 
-# Partners
+## Partners
 
 + AI Partner Program - https://aipartner.microsoft.com/
 + LearnAI Team - Trainig Partners Program - http://aka.ms/LearnAI-partners
