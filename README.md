@@ -46,6 +46,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + LUIS - Language Understanding - http://luis.ai
 + Custom Vision - http://customvision.ai
 + Q&A Maker - http://qnamaker.ai/
++ Q&A Maker E2E template - http://aka.ms/qnamakerbottutorial
 + Video Indexer - http://videoindexer.ai/
 + Azure Cognitive Services - http://www.azure.com/cognitive
 + LUIS Best Practices - https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-concept-best-practices
