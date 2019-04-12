@@ -65,6 +65,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Containers support for Cognitive Services - https://docs.microsoft.com/en-us/azure/cognitive-services/cognitive-services-container-support
 + New Microsoft AI Certifications - https://www.microsoft.com/en-us/learning/browse-new-certification.aspx 
 + Microsoft Vision AI Developer Kit - https://azure.microsoft.com/en-us/blog/accelerating-ai-on-the-intelligent-edge-microsoft-and-qualcomm-create-vision-ai-developer-kit/
++ QnA Maker template - https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/tutorials/create-qna-bot
 
 ## Datasets
 
