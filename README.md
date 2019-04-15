@@ -169,6 +169,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + MD Files Chear Sheet - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 + Microsft Presentation Translator - http://aka.ms/presentationtranslator
 + Azure Services Map - https://nnmer.github.io/azure-services-map/dist/
++ ML .Net - https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet
 
 ## Microsoft Strategic Partnerships
 
