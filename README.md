@@ -56,6 +56,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Containers Dev Samples - http://aka.ms/containersamples
 +	Anomaly Detector - Portal - https://azure.microsoft.com/en-us/services/cognitive-services/anomaly-detector/
 +	Anomaly Detector - Wiki - https://docs.microsoft.com/en-us/azure/cognitive-services/anomaly-detector/
++ Cognitive Services Compliance - https://azure.microsoft.com/en-us/support/legal/cognitive-services-compliance-and-privacy/
 
 ## Breaking News - March 2019
 
