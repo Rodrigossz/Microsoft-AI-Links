@@ -58,7 +58,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 +	Anomaly Detector - Wiki - https://docs.microsoft.com/en-us/azure/cognitive-services/anomaly-detector/
 + Cognitive Services Compliance - https://azure.microsoft.com/en-us/support/legal/cognitive-services-compliance-and-privacy/
 
-## Breaking News - March 2019
+## Breaking News - April 2019
 
 + Anomally Detector public preview - https://azure.microsoft.com/en-us/services/cognitive-services/anomaly-detector/
 + Microsoft AI Business School - https://www.microsoft.com/en-us/ai/ai-business-school
@@ -67,6 +67,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + New Microsoft AI Certifications - https://www.microsoft.com/en-us/learning/browse-new-certification.aspx 
 + Microsoft Vision AI Developer Kit - https://azure.microsoft.com/en-us/blog/accelerating-ai-on-the-intelligent-edge-microsoft-and-qualcomm-create-vision-ai-developer-kit/
 + QnA Maker template - https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/tutorials/create-qna-bot
++ New Cognitive Services - https://techcrunch.com/2019/05/02/microsoft-extends-its-cognitive-services-with-personalization-and-handwriting-recognition-apis/
 
 ## Datasets
 
