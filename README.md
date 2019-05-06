@@ -161,7 +161,6 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Find the right Azure APP for your Business - https://appsource.microsoft.com/en-us/
 + Roadmap - http://azure.microsoft.com/en-us/roadmap
 + Latency Test - http://www.azurespeed.com/
-+ Interactive Platform - http://azureinteractives.azurewebsites.net/
 + CosmosDb Capacity Planner - http://www.documentdb.com/capacityplanner
 + Azure Free Account - http://azure.microsoft.com/en-us/free/
 + Azure Datacenters - http://azuredatacentermap.azurewebsites.net/
