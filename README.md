@@ -152,27 +152,29 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + AI Partner Program - https://aipartner.microsoft.com/
 + LearnAI Team - Trainig Partners Program - http://aka.ms/LearnAI-partners
 
-## Utilities 
-
-+ Technical Writing Tips - https://docs.microsoft.com/en-us/style-guide/top-10-tips-style-voice
+## Azure Utilities
++ Azure Updates - https://azure.microsoft.com/en-us/updates/
 + Azure Readiness - http://aka.ms/azreadiness
-+ Microsoft Learning - http://www.microsoft.com/learn
-+ Architecture Center - http://docs.microsoft.com/en-us/azure/architecture/
-+ Solution Architectures - http://azure.microsoft.com/en-us/solutions/architecture/
-+ Reference Architectures - http://docs.microsoft.com/en-us/azure/architecture/reference-architectures/
-+ Azure SQL DTU Calculator - http://dtucalculator.azurewebsites.net/
-+ Find the right Azure APP for your Business - https://appsource.microsoft.com/en-us/
-+ Roadmap - http://azure.microsoft.com/en-us/roadmap
-+ Latency Test - http://www.azurespeed.com/
-+ CosmosDb Capacity Planner - http://www.documentdb.com/capacityplanner
++ Azure Roadmap - http://azure.microsoft.com/en-us/roadmap
 + Azure Free Account - http://azure.microsoft.com/en-us/free/
 + Azure Datacenters - http://azuredatacentermap.azurewebsites.net/
 + Azure to AWS Services Compare - http://docs.microsoft.com/en-us/azure/architecture/aws-professional/services
++ Azure Services Map - https://nnmer.github.io/azure-services-map/dist/
++ Azure Latency Test - http://www.azurespeed.com/
++ Find the right Azure APP for your Business - https://appsource.microsoft.com/en-us/
++ Azure Architecture Center - http://docs.microsoft.com/en-us/azure/architecture/
++ Azure Solutions Architectures - http://azure.microsoft.com/en-us/solutions/architecture/
++ Azure SQL DB DTU Calculator - http://dtucalculator.azurewebsites.net/
++ Azure CosmosDb Capacity Planner - http://www.documentdb.com/capacityplanner
+
+## Utilities 
+
++ Technical Writing Tips - https://docs.microsoft.com/en-us/style-guide/top-10-tips-style-voice
++ Microsoft Learning - http://www.microsoft.com/learn
 + Visio Stencils for Azure and Cloud Diagrams - http://www.microsoft.com/en-us/download/details.aspx?id=41937
 + Azure commitment with GDPR - http://blogs.microsoft.com/on-the-issues/2017/02/15/get-gdpr-compliant-with-the-microsoft-cloud/
 + MD Files Cheat Sheet - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 + Microsft Presentation Translator - http://aka.ms/presentationtranslator
-+ Azure Services Map - https://nnmer.github.io/azure-services-map/dist/
 + ML .Net - https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet
 + Choosing the right ML Algorithm - https://scikit-learn.org/stable/tutorial/machine_learning_map/
 + Azure ML Algorithms Inforgraphic - https://visual.ly/community/Infographics/technology/azure-machine-learning
