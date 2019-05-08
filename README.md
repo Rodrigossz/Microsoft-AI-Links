@@ -153,12 +153,12 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + LearnAI Team - Trainig Partners Program - http://aka.ms/LearnAI-partners
 
 ## Azure Utilities
+
 + Azure Updates - https://azure.microsoft.com/en-us/updates/
 + Azure Readiness - http://aka.ms/azreadiness
 + Azure Roadmap - http://azure.microsoft.com/en-us/roadmap
 + Azure Free Account - http://azure.microsoft.com/en-us/free/
 + Azure Datacenters - http://azuredatacentermap.azurewebsites.net/
-+ Azure to AWS Services Compare - http://docs.microsoft.com/en-us/azure/architecture/aws-professional/services
 + Azure Services Map - https://nnmer.github.io/azure-services-map/dist/
 + Azure Latency Test - http://www.azurespeed.com/
 + Find the right Azure APP for your Business - https://appsource.microsoft.com/en-us/
@@ -181,6 +181,12 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Visual Intro do Machine Learning Part 1- http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
 + Visual Intro do Machine Learning Part 2- http://www.r2d3.us/visual-intro-to-machine-learning-part-2/
 + Dontpad - Cloud Notepad - www.dontpad.com
+
+# Azure Compete
+
++ Azure x Aws x GCP x IBM x Oracle... -  http://comparecloud.in/
++ Azure to AWS Services Compare - http://docs.microsoft.com/en-us/azure/architecture/aws-professional/services
+
 
 ## Microsoft Strategic Partnerships
 
