@@ -181,12 +181,12 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Visual Intro do Machine Learning Part 1- http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
 + Visual Intro do Machine Learning Part 2- http://www.r2d3.us/visual-intro-to-machine-learning-part-2/
 + Dontpad - Cloud Notepad - www.dontpad.com
++ Microsoft Virtual Labs - https://www.microsoft.com/handsonlabs/SelfPacedLabs
 
 # Azure Compete
 
 + Azure x Aws x GCP x IBM x Oracle... -  http://comparecloud.in/
 + Azure to AWS Services Compare - http://docs.microsoft.com/en-us/azure/architecture/aws-professional/services
-
 
 ## Microsoft Strategic Partnerships
 
