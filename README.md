@@ -80,6 +80,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 
 + AI Platform - http://www.microsoft.com/ai
 + AI Customer Stories - https://www.microsoft.com/en-us/ai/customer-stories 
++ AI Stories - https://news.microsoft.com/ai-stories/
 + AI Gallery - http://aka.ms/aigallery
 + AI School - http://aka.ms/ai-school
 + AI Business School - https://www.microsoft.com/en-us/ai/ai-business-school
@@ -115,6 +116,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Cognitive Search - Web Med Search - http://webmedsearch.azurewebsites.net/
 + Intelligent Kiosk - http://aka.ms/kioskapp
 + Intelligent Kiosk Code - https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk
++ Photos Captations Bot - https://www.captionbot.ai/
 
 ## Bots
 
@@ -168,10 +170,15 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Azure to AWS Services Compare - http://docs.microsoft.com/en-us/azure/architecture/aws-professional/services
 + Visio Stencils for Azure and Cloud Diagrams - http://www.microsoft.com/en-us/download/details.aspx?id=41937
 + Azure commitment with GDPR - http://blogs.microsoft.com/on-the-issues/2017/02/15/get-gdpr-compliant-with-the-microsoft-cloud/
-+ MD Files Chear Sheet - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
++ MD Files Cheat Sheet - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 + Microsft Presentation Translator - http://aka.ms/presentationtranslator
 + Azure Services Map - https://nnmer.github.io/azure-services-map/dist/
 + ML .Net - https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet
++ Choosing the right ML Algorithm - https://scikit-learn.org/stable/tutorial/machine_learning_map/
++ Azure ML Algorithms Inforgraphic - https://visual.ly/community/Infographics/technology/azure-machine-learning
++ Visual Intro do Machine Learning Part 1- http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
++ Visual Intro do Machine Learning Part 2- http://www.r2d3.us/visual-intro-to-machine-learning-part-2/
++ Dontpad - Cloud Notepad - www.dontpad.com
 
 ## Microsoft Strategic Partnerships
 
