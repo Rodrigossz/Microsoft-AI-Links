@@ -57,6 +57,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 +	Anomaly Detector - Portal - https://azure.microsoft.com/en-us/services/cognitive-services/anomaly-detector/
 +	Anomaly Detector - Wiki - https://docs.microsoft.com/en-us/azure/cognitive-services/anomaly-detector/
 + Cognitive Services Compliance - https://azure.microsoft.com/en-us/support/legal/cognitive-services-compliance-and-privacy/
++ Custom Translator API - https://portal.customtranslator.azure.ai/
 
 ## Breaking News - April 2019
 
