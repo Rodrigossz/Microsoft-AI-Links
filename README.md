@@ -94,6 +94,9 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Azure Automated ML - https://docs.microsoft.com/en-us/azure/machine-learning/service/tutorial-auto-train-models
 + Azure Automated ML Models - https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-automated-ml?WT.mc_id=docs-presentation-lazzeri
 + Microsoft + Qualcom Vision AI - https://visionaidevkit.com/ 
++ Azure ML Sample Notebooks - https://github.com/Azure/MachineLearningNotebooks
++ ML + CI/CD - https://azure.microsoft.com/en-us/blog/getting-ai-ml-and-devops-working-better-together/
++ CI/CD Tutorial - https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/ci-cd-flask?WT.mc_id=devopsai-acomblog-kbaroni
 
 ## Volunteer
 + My Skills for Africa - https://myskills.microsoft.com/4Afrika
