@@ -138,6 +138,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 
 ## Data & AI Certifications
 + Tradictional Azure Certifications - http://aka.ms/ExamsAzure
++ Microsoft Certifications Tracks - May 2019 - https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 + Msft Internal Only - http://aka.ms/vouchers
 + MesuareUp - Exams Practices - https://mslibrary.measureup.com/
 + New Certifications
