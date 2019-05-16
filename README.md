@@ -88,6 +88,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + AI Lab - http://www.ailab.microsoft.com 
 + AI Open Methodology - Team Data Science Process - http://aka.ms/tdsp
 + AI Professional Program - http://aka.ms/mppai
++ AI Events Analytics with Aria - https://www.aria.ms/
 + Azure Machine Learning - Python SDK - http://aka.ms/aml-sdk
 + Azure Machine Learning - Data Preparation SDK - https://docs.microsoft.com/en-us/python/api/overview/azure/dataprep/intro?view=azure-dataprep-py
 + Azure Machine Learning Studio - http://aka.ms/amlstudio
