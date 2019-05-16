@@ -187,6 +187,8 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Visual Intro do Machine Learning Part 2- http://www.r2d3.us/visual-intro-to-machine-learning-part-2/
 + Dontpad - Cloud Notepad - www.dontpad.com
 + Microsoft Virtual Labs - https://www.microsoft.com/handsonlabs/SelfPacedLabs
++ Azure Data Explorer - https://kusto.azurewebsites.net/docs/
++ SQL Server Data Studio - https://docs.microsoft.com/en-us/sql/azure-data-studio/what-is?view=sql-server-2017
 
 # Azure Compete
 
