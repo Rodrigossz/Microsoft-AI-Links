@@ -111,6 +111,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Cognitive Search Business Documents Demo - Wolters Kluwer - https://wolterskluwereap.azurewebsites.net/
 + Cognitive Search Business Oil & Gas Demo - Exxon Mobile - http://seismicsearch.azurewebsites.net/
 + Cognitive Search Business Healthcare - CTakes - http://webmedsearch.azurewebsites.net/
++ Cognitive Search Accelerator - http://aka.ms/kmsolutions
 + Azure Time Series Insights - https://insights.timeseries.azure.com/demo
 + Computer Vision API - How Old? - https://www.how-old.net/#
 + Azure Search Query Engines Demo - Alice - https://alice.unearth.ai/
