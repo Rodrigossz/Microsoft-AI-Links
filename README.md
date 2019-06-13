@@ -83,6 +83,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + AI Stories - https://news.microsoft.com/ai-stories/
 + AI Gallery - http://aka.ms/aigallery
 + AI School - http://aka.ms/ai-school
++ AI Best Practices for Recommenders - https://github.com/Microsoft/Recommenders
 + AI Business School - https://www.microsoft.com/en-us/ai/ai-business-school
 + AI Landscape - http://aka.ms/ai-landscape
 + AI Lab - http://www.ailab.microsoft.com 
