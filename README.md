@@ -2,7 +2,7 @@
 
 Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within Microsoft Platform. If you are a Microsoft FTE, ask me about the internal version.
 
-## How to Learn More - Blogs
+## How to Learn More about AI - Blogs
 
 + Data is the New Oil - https://datanewoil.tumblr.com/
 + AI For Developers, DBAs, or Data Scientits - https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Learn-How-to-Create-End-to-End-Solutions-with-Microsoft-AI/ba-p/698422
