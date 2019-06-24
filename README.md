@@ -7,7 +7,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Data is the New Oil - https://datanewoil.tumblr.com/
 + AI For Developers, DBAs, or Data Scientits - https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Learn-How-to-Create-End-to-End-Solutions-with-Microsoft-AI/ba-p/698422
 + AI for Business and Home Users - https://www.linkedin.com/pulse/ai-business-home-users-rodrigo-souza/
-
++ Azure AI Twitter - https://twitter.com/AzureaiM
 
 ## LearnAI - Advanced AI Trainings
 
@@ -15,8 +15,6 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Public Trainings - http://aka.ms/LearnAI-trainings
 + Ethics Training - http://aka.ms/LearnAI-ethics
 + Useful Links - http://aka.ms/LearnAI-links
-+ LearnAI Team - Trainig Partners Program - http://aka.ms/LearnAI-partners
-+ Azure AI Twitter - https://twitter.com/AzureaiM
 + Cognitive Services Bootcamp - http://aka.ms/LearnAI-csb
 + Knowledge Mining Bootcamp - http://aka.ms/LearnAI-kmb
 + AI Airlift (csb + kmb) - http://aka.ms/LearnAI-Airlift
@@ -138,11 +136,6 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
   + New certifications blog post - http://aka.ms/ai-certs
   + Learning Path for the new AI Certifications - http://aka.ms/AzureAIEngLearning
 
-## Partners
-
-+ AI Partner Program - https://aipartner.microsoft.com/
-+ LearnAI Team - Trainig Partners Program - http://aka.ms/LearnAI-partners
-
 ## Azure Utilities
 
 + Azure Updates - https://azure.microsoft.com/en-us/updates/
@@ -176,10 +169,13 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Azure Data Explorer - https://kusto.azurewebsites.net/docs/
 + SQL Server Data Studio - https://docs.microsoft.com/en-us/sql/azure-data-studio/what-is?view=sql-server-2017
 
-# Azure Compete
+# Customers, Partners, Compete
 
++ Customer Stories - https://customers.microsoft.com
++ Partner Program - https://aipartner.microsoft.com/
 + Azure x Aws x GCP x IBM x Oracle... -  http://comparecloud.in/
 + Azure to AWS Services Compare - http://docs.microsoft.com/en-us/azure/architecture/aws-professional/services
+
 
 ## Microsoft Strategic Partnerships
 
@@ -194,13 +190,13 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 
 ## Azure IoT
 
-+ Microsoft IoT Edge Marketplace -  http://aka.ms/iot-edge-marketplace
-+ Microsoft IoT Edge Toolkit - https://github.com/Azure/ai-toolkit-iot-edge
-+ Microsoft IoT Device Twins - https://azure.microsoft.com/en-us/services/digital-twins/
-+ Microsoft IoT Edge Offline Usage - https://azure.microsoft.com/en-us/blog/extended-offline-operation-with-azure-iot-edge/
-+ Microsoft IoT Extension for VS Code - https://github.com/Microsoft/vscode-iot-workbench
-+ Microsoft IoT Hands-on Lab - https://github.com/Azure-Samples/azureiotlabs
-+ Microsoft IoT Certified SW Partners - http://azureiotpartners.azurewebsites.net/#countryFilter=global
-+ Microsoft IoT Certified HW Partners - https://azure.microsoft.com/en-us/marketplace/certified-iot-partners/
-+ Microsoft IoT Certified HW Devices - https://www.catalog.azureiotsolutions.com/
-+ Microsoft IoT Customer Stories - http://customers.microsoft.com/en-us/search?sq=internet%20of%20things&ff=&p=0&so=story_publish_date%20desc
++ Overview - https://azure.microsoft.com/en-us/overview/iot/
++ IoT Edge Marketplace -  http://aka.ms/iot-edge-marketplace
++ IoT Edge Toolkit - https://github.com/Azure/ai-toolkit-iot-edge
++ IoT Device Twins - https://azure.microsoft.com/en-us/services/digital-twins/
++ IoT Edge Offline Usage - https://azure.microsoft.com/en-us/blog/extended-offline-operation-with-azure-iot-edge/
++ Extension for VS Code - https://github.com/Microsoft/vscode-iot-workbench
++ IoT Hands-on Lab - https://github.com/Azure-Samples/azureiotlabs
++ IoT Certified SW Partners - http://azureiotpartners.azurewebsites.net/#countryFilter=global
++ IoT Certified HW Partners - https://azure.microsoft.com/en-us/marketplace/certified-iot-partners/
++ IoT Certified HW Devices - https://www.catalog.azureiotsolutions.com/
