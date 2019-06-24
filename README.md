@@ -2,19 +2,23 @@
 
 Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within Microsoft Platform. If you are a Microsoft FTE, ask me about the internal version.
 
-## How to Learn More about AI - Microsoft
 
-+ Microsoft Learn - https://docs.microsoft.com/en-us/learn/
-+ Microsoft AI Business Shool - https://www.microsoft.com/en-us/ai/ai-business-school
-+ Microsoft AI Shool - https://aischool.microsoft.com/learning-paths
-+ Microsof AI Customer Engineering Team Blog - http://aka.ms/ACE-Blog
-
-## How to Learn More about AI - Blogs, Twitter
+## How to Start to Learn about AI
 
 + AI For Developers, DBAs, or Data Scientits - http://aka.ms/Learn-Microsoft-AI
 + AI for Business and Home Users - https://www.linkedin.com/pulse/ai-business-home-users-rodrigo-souza/
 + Data is the New Oil - https://datanewoil.tumblr.com/
 + Azure AI Twitter - https://twitter.com/AzureaiM
+
+## How to Learn More about AI - Microsoft
+
++ Microsoft Learn - https://docs.microsoft.com/en-us/learn/
++ Microsoft AI Business Shool - https://www.microsoft.com/en-us/ai/ai-business-school
++ Microsoft AI Shool - https://aischool.microsoft.com/learning-paths
++ Microsoft AI Customer Engineering Team Blog - http://aka.ms/ACE-Blog
++ Microsoft Cloud Workshop - https://microsoftcloudworkshop.com/
++ Microsoft Professional Program for AI - https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/
+
 
 ## LearnAI - Advanced AI Trainings
 
@@ -39,30 +43,36 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 
 ## AI Labs / Demos
 
+### Azure Search / Cognitive Search / Knowledge Mining
+
++ Knowledge Mining Solution Accelerator - http://aka.ms/KMsolutions 
++ Cognitive Search JFK Files - https://jfk-demo.azurewebsites.net/
++ Cognitive Search JFK Files Code - https://github.com/Microsoft/AzureSearch_JFK_Files
++ Cognitive Search Front End - http://aka.ms/csfrontend
++ Cognitive Search Documents Demo - Wolters Kluwer - https://wolterskluwereap.azurewebsites.net/
++ Cognitive Search Oil & Gas Demo - Exxon Mobile - http://seismicsearch.azurewebsites.net/
++ Cognitive Search Healthcare Demo - CTakes - http://webmedsearch.azurewebsites.net/
++ Cognitive Search Art Explorer Demo - http://artexplorer.azurewebsites.net/
++ Cognitive Search Web Med Search Demo - http://webmedsearch.azurewebsites.net/
++ Azure Search Jobs Demo - http://azjobsdemo.azurewebsites.net/
++ Azure Search Query Engines Demo - Alice - https://alice.unearth.ai/
+
+
+### All Other
+
++ Cognitive Services Enrichment Pipeline - https://text-analytics-demo-dev.azurewebsites.net/
 +	All known AI demos across Microsoft - http://aka.ms/ai-demos
 + Intelligent Kiosk - http://aka.ms/IntelligentKiosk
 + Intelligent Kiosk Code - https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk
-+ Cognitive Search JFK Files - https://jfk-demo.azurewebsites.net/
-+ Cognitive Search JFK Files Code - https://github.com/Microsoft/AzureSearch_JFK_Files
-+ Knowledge Mining Solution Accelerator - http://aka.ms/KMsolutions 
-+ Cognitive Search Front End - http://aka.ms/csfrontend
-+ Cognitive Services Enrichment Pipeline - https://text-analytics-demo-dev.azurewebsites.net/
-+ Cognitive Search Business Documents Demo - Wolters Kluwer - https://wolterskluwereap.azurewebsites.net/
-+ Cognitive Search Business Oil & Gas Demo - Exxon Mobile - http://seismicsearch.azurewebsites.net/
-+ Cognitive Search Business Healthcare - CTakes - http://webmedsearch.azurewebsites.net/
 + Azure Time Series Insights - https://insights.timeseries.azure.com/demo
 + Computer Vision API - How Old? - https://www.how-old.net/#
-+ Azure Search Query Engines Demo - Alice - https://alice.unearth.ai/
 + Forms Understanding Demo - https://formdemoux.azurewebsites.net/
-+ Azure Search - Jobs Demos - http://azjobsdemo.azurewebsites.net/
-+ Cognitive Search Art Explorer - http://artexplorer.azurewebsites.net/
-+ Cognitive Search - Web Med Search - http://webmedsearch.azurewebsites.net/
 + Photos Captations Bot - https://www.captionbot.ai/
 + Containers Dev Samples - http://aka.ms/containersamples
 + Q&A Maker E2E template - http://aka.ms/qnamakerbottutorial
 + Best Practices for Recommenders - https://github.com/Microsoft/Recommenders
 
-## Microsoft Cognitive Services
+## Microsoft Cognitive Services Key Sites
 
 + Cognitive Services Catalog - https://azure.com/cognitive
 + Cognitive Services Portal - http://azure.microsoft.com/en-us/services/cognitive-services/
@@ -92,7 +102,10 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Azure Public Datasets - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-public-data-sets
 + Open Data Initiative - https://www.microsoft.com/en-us/open-data-initiative
 
-## Volunteer
+## AI For Good
+
++ Microsoft AI Principles - https://www.microsoft.com/en-us/AI/our-approach-to-ai
++ Microsoft AI For Good - https://www.microsoft.com/en-us/ai/ai-for-good
 + My Skills for Africa - https://myskills.microsoft.com/4Afrika
 
 ## Microsoft AI Labs, Trainings, Products and Solutions
@@ -175,24 +188,20 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Azure Data Explorer - https://kusto.azurewebsites.net/docs/
 + SQL Server Data Studio - https://docs.microsoft.com/en-us/sql/azure-data-studio/what-is?view=sql-server-2017
 
-# Customers, Partners, Compete
+## Customers, Partners, Compete
 
 + Customer Stories - https://customers.microsoft.com
 + Partner Program - https://aipartner.microsoft.com/
 + Azure x Aws x GCP x IBM x Oracle... -  http://comparecloud.in/
 + Azure to AWS Services Compare - http://docs.microsoft.com/en-us/azure/architecture/aws-professional/services
-
-
-## Microsoft Strategic Partnerships
-
-+ AI - ONNX - Facebook and AWS - https://onnx.ai/
-+ AI - Open Data - Adobe and SAP - http://text-analytics-demo-dev.azurewebsites.net/
-+ AI - Cortana/Alexa Integration - AWS - https://blogs.microsoft.com/blog/2017/08/30/hey-cortana-open-alexa-microsoft-amazons-first-kind-collaboration/
-+ IIoT - ABB - https://news.microsoft.com/2016/10/03/abb-and-microsoft-partner-to-drive-digital-industrial-transformation/
-+ IIoT - GE - https://news.microsoft.com/2016/07/11/ge-and-microsoft-partner-to-bring-predix-to-azure-accelerating-digital-transformation-for-industrial-customers/
-+ IIoT - AspenTech - http://www.intelligenttechchannels.com/aspentech-to-host-on-microsoft-azure-to-deliver-iiot-asset-management-analytics/
-+ IIoT - Cisco - https://azure.microsoft.com/en-us/blog/microsoft-and-cisco-enable-azure-iot-suite-to-connect-to-cisco-fog-deployments/
-+ IIoT - Osisoft - https://www.osisoft.com/uploadedFiles/Content/Content_Modules/wp-azure-iot-lt.pdf
++ ONNX - Microsoft, Facebook, and AWS - https://onnx.ai/
++ Open Data - Microsoft, Adobe, and SAP - http://text-analytics-demo-dev.azurewebsites.net/
++ Cortana/Alexa Integration - https://blogs.microsoft.com/blog/2017/08/30/hey-cortana-open-alexa-microsoft-amazons-first-kind-collaboration/
++ ABB - https://news.microsoft.com/2016/10/03/abb-and-microsoft-partner-to-drive-digital-industrial-transformation/
++ GE - https://news.microsoft.com/2016/07/11/ge-and-microsoft-partner-to-bring-predix-to-azure-accelerating-digital-transformation-for-industrial-customers/
++ AspenTech - http://www.intelligenttechchannels.com/aspentech-to-host-on-microsoft-azure-to-deliver-iiot-asset-management-analytics/
++ Cisco - https://azure.microsoft.com/en-us/blog/microsoft-and-cisco-enable-azure-iot-suite-to-connect-to-cisco-fog-deployments/
++ Osisoft - https://www.osisoft.com/uploadedFiles/Content/Content_Modules/wp-azure-iot-lt.pdf
 
 ## Azure IoT
 
