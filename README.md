@@ -24,13 +24,11 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 
 + Portal - http://aka.ms/LearnAI-portal
 + Public Trainings - http://aka.ms/LearnAI-trainings
-+ Ethics Training - http://aka.ms/LearnAI-ethics
 + Useful Links - http://aka.ms/LearnAI-links
 + Cognitive Services Bootcamp - http://aka.ms/LearnAI-csb
 + Knowledge Mining Bootcamp - http://aka.ms/LearnAI-kmb
 + AI Airlift (csb + kmb) - http://aka.ms/LearnAI-Airlift
 + Custom AI Airlift - https://github.com/Azure/LearnAI-CustomAI-Airlift
-+ Azure Search Fundamentals - http://aka.ms/LearnAI-asf
 
 ## LearnAI Videos
 
@@ -56,7 +54,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Cognitive Search Web Med Search Demo - http://webmedsearch.azurewebsites.net/
 + Azure Search Jobs Demo - http://azjobsdemo.azurewebsites.net/
 + Azure Search Query Engines Demo - Alice - https://alice.unearth.ai/
-
++ Azure Search Fundamentals - http://aka.ms/LearnAI-asf
 
 ### All Other
 
