@@ -1,8 +1,8 @@
-# Microsoft's LearnAI Team - Links
+# Microsoft's AI Links
 
-Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within Microsoft Platform
+Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within Microsoft Platform. If you are a FTE, ask me about the Microsoft internal links.
 
-## LearnAI Key Information
+## Old LearnAI links (now we are ACE = AI Customer Engineering)
 
 + Portal - http://aka.ms/LearnAI-portal
 + Public Trainings - http://aka.ms/LearnAI-trainings
@@ -24,9 +24,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 
 #### Knowledge Mining Workshop
 
-+ Mini Workshop Part 1 (Internal) - https://msit.microsoftstream.com/video/6959cdaa-0a7d-43c6-b233-a9ea6338d801
 + Mini Workshop Part 1 (External) - https://infopedia.eventbuilder.com/event?eventid=r2x4n8
-+ Mini Workshop Part 2 (Internal) - https://msit.microsoftstream.com/video/8524735b-eee6-4f26-ad04-a35c17c3cd62
 + Mini Workshop Part 2 (External) - https://infopedia.eventbuilder.com/event?eventid=a1i8p5
 
 #### Cognitive Services
@@ -99,10 +97,6 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Azure ML Sample Notebooks - https://github.com/Azure/MachineLearningNotebooks
 + ML + CI/CD - https://azure.microsoft.com/en-us/blog/getting-ai-ml-and-devops-working-better-together/
 + CI/CD Tutorial - https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/ci-cd-flask?WT.mc_id=devopsai-acomblog-kbaroni
-
-## Volunteer
-+ My Skills for Africa - https://myskills.microsoft.com/4Afrika
-+ Give - https://give/
 
 ## Demos
 
