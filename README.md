@@ -2,7 +2,14 @@
 
 Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within Microsoft Platform. If you are a Microsoft FTE, ask me about the internal version.
 
-## How to Learn More about AI - Blogs
+## How to Learn More about AI - Microsoft
+
++ Microsoft Learn - https://docs.microsoft.com/en-us/learn/
++ Microsoft AI Business Shool - https://www.microsoft.com/en-us/ai/ai-business-school
++ Microsoft AI Shool - https://aischool.microsoft.com/learning-paths
++ Microsof AI Customer Engineering Team Blog - http://aka.ms/ACE-Blog
+
+## How to Learn More about AI - Blogs, Twitter
 
 + AI For Developers, DBAs, or Data Scientits - http://aka.ms/Learn-Microsoft-AI
 + AI for Business and Home Users - https://www.linkedin.com/pulse/ai-business-home-users-rodrigo-souza/
@@ -20,7 +27,6 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + AI Airlift (csb + kmb) - http://aka.ms/LearnAI-Airlift
 + Custom AI Airlift - https://github.com/Azure/LearnAI-CustomAI-Airlift
 + Azure Search Fundamentals - http://aka.ms/LearnAI-asf
-+ Designing and Architecting Intelligent Agents Trainig - http://aka.ms/LearnAI-daaia 
 
 ## LearnAI Videos
 
