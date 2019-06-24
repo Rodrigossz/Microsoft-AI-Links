@@ -1,8 +1,15 @@
 # Microsoft's AI Links
 
-Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within Microsoft Platform. If you are a FTE, ask me about the Microsoft internal links.
+Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within Microsoft Platform. If you are a Microsoft FTE, ask me about the internal version.
 
-## Old LearnAI links (now we are ACE = AI Customer Engineering)
+## How to Learn More - Blogs
+
++ Data is the New Oil - https://datanewoil.tumblr.com/
++ AI For Developers, DBAs, or Data Scientits - https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Learn-How-to-Create-End-to-End-Solutions-with-Microsoft-AI/ba-p/698422
++ AI for Business and Home Users - https://www.linkedin.com/pulse/ai-business-home-users-rodrigo-souza/
+
+
+## AI Customer Engineering
 
 + Portal - http://aka.ms/LearnAI-portal
 + Public Trainings - http://aka.ms/LearnAI-trainings
@@ -10,33 +17,49 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Useful Links - http://aka.ms/LearnAI-links
 + LearnAI Team - Trainig Partners Program - http://aka.ms/LearnAI-partners
 + Azure AI Twitter - https://twitter.com/AzureaiM
++ Cognitive Services Bootcamp - http://aka.ms/LearnAI-csb
++ Knowledge Mining Bootcamp - http://aka.ms/LearnAI-kmb
++ AI Airlift (csb + kmb) - http://aka.ms/LearnAI-Airlift
++ Custom AI Airlift - https://github.com/Azure/LearnAI-CustomAI-Airlift
++ Azure Search Fundamentals - http://aka.ms/LearnAI-asf
++ Designing and Architecting Intelligent Agents Trainig - http://aka.ms/LearnAI-daaia 
 
-## LearnAI Trainings
-
-+ LearnAI Team - Cognitive Services Bootcamp - http://aka.ms/LearnAI-csb
-+ LearnAI Team - Knowledge Mining Bootcamp - http://aka.ms/LearnAI-kmb
-+ LearnAI Team - AI Airlift (csb + kmb) - http://aka.ms/LearnAI-Airlift
-+ LearnAI Team - Custom AI Airlift - https://github.com/Azure/LearnAI-CustomAI-Airlift
-+ LearnAI Team - Azure Search Fundamentals - http://aka.ms/LearnAI-asf
-+ LearnAI Team - Designing and Architecting Intelligent Agents Trainig - http://aka.ms/LearnAI-daaia 
-
-## LearnAI Videos
-
-#### Knowledge Mining Workshop
+## AI Customer Engineering - Videos
 
 + Mini Workshop Part 1 (External) - https://infopedia.eventbuilder.com/event?eventid=r2x4n8
 + Mini Workshop Part 2 (External) - https://infopedia.eventbuilder.com/event?eventid=a1i8p5
-
-#### Cognitive Services
-
 + Bootcamp (Vision, Custom Vision, LUIS, Azure Search) Part 1 - https://www.youtube.com/watch?v=vgo87Xzd8a0&t=
 + Bootcamp (Vision, Custom Vision, LUIS, Azure Search) Part 2 - https://www.youtube.com/watch?v=eHsNI0AeQQI&t=
 + Bing Search and BOTS training - https://channel9.msdn.com/Shows/AI-Show/LearnAI-Adding-Bing-Search-to-Bots
 + LUIS - Notes From the Field - https://www.youtube.com/watch?v=dRghtMiOBas
 
+## AI Labs / Demos
+
++	All known AI demos across Microsoft - http://aka.ms/ai-demos
++ Intelligent Kiosk - http://aka.ms/IntelligentKiosk
++ Intelligent Kiosk Code - https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk
++ Cognitive Search JFK Files - https://jfk-demo.azurewebsites.net/
++ Cognitive Search JFK Files Code - https://github.com/Microsoft/AzureSearch_JFK_Files
++ Knowledge Mining Solution Accelerator - http://aka.ms/KMsolutions 
++ Cognitive Search Front End - http://aka.ms/csfrontend
++ Cognitive Services Enrichment Pipeline - https://text-analytics-demo-dev.azurewebsites.net/
++ Cognitive Search Business Documents Demo - Wolters Kluwer - https://wolterskluwereap.azurewebsites.net/
++ Cognitive Search Business Oil & Gas Demo - Exxon Mobile - http://seismicsearch.azurewebsites.net/
++ Cognitive Search Business Healthcare - CTakes - http://webmedsearch.azurewebsites.net/
++ Azure Time Series Insights - https://insights.timeseries.azure.com/demo
++ Computer Vision API - How Old? - https://www.how-old.net/#
++ Azure Search Query Engines Demo - Alice - https://alice.unearth.ai/
++ Forms Understanding Demo - https://formdemoux.azurewebsites.net/
++ Azure Search - Jobs Demos - http://azjobsdemo.azurewebsites.net/
++ Cognitive Search Art Explorer - http://artexplorer.azurewebsites.net/
++ Cognitive Search - Web Med Search - http://webmedsearch.azurewebsites.net/
++ Photos Captations Bot - https://www.captionbot.ai/
++ Containers Dev Samples - http://aka.ms/containersamples
++ Q&A Maker E2E template - http://aka.ms/qnamakerbottutorial
+
 ## Microsoft Cognitive Services
 
-+ Cognitive Services FULL Catalog - https://azure.com/cognitive
++ Cognitive Services Catalog - https://azure.com/cognitive
 + Cognitive Services Portal - http://azure.microsoft.com/en-us/services/cognitive-services/
 + Cognitive Search - http://aka.ms/cognitivesearch
 + Decision Service - http://aka.ms/decisionservice
@@ -44,14 +67,10 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + LUIS - Language Understanding - http://luis.ai
 + Custom Vision - http://customvision.ai
 + Q&A Maker - http://qnamaker.ai/
-+ Q&A Maker E2E template - http://aka.ms/qnamakerbottutorial
 + Video Indexer - http://videoindexer.ai/
-+ Azure Cognitive Services - http://www.azure.com/cognitive
 + LUIS Best Practices - https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-concept-best-practices
 + LUIS Services Limits - https://docs.microsoft.com/en-in/azure/cognitive-services/luis/luis-boundaries
-+ High Level Roadmap (Internal Only) - http://aka.ms/csrmap
 + Containers - http://aka.ms/cscontainers
-+ Containers Dev Samples - http://aka.ms/containersamples
 +	Anomaly Detector - Portal - https://azure.microsoft.com/en-us/services/cognitive-services/anomaly-detector/
 +	Anomaly Detector - Wiki - https://docs.microsoft.com/en-us/azure/cognitive-services/anomaly-detector/
 + Cognitive Services Compliance - https://azure.microsoft.com/en-us/support/legal/cognitive-services-compliance-and-privacy/
@@ -73,6 +92,9 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + AI Open Datasets - http://msropendata.com/
 + Azure Public Datasets - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-public-data-sets
 + Open Data Initiative - https://www.microsoft.com/en-us/open-data-initiative
+
+## Volunteer
++ My Skills for Africa - https://myskills.microsoft.com/4Afrika
 
 ## Microsoft AI Labs, Trainings, Products and Solutions
 
@@ -98,26 +120,6 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + ML + CI/CD - https://azure.microsoft.com/en-us/blog/getting-ai-ml-and-devops-working-better-together/
 + CI/CD Tutorial - https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/ci-cd-flask?WT.mc_id=devopsai-acomblog-kbaroni
 
-## Demos
-
-+ Cognitive Services Enrichment Pipeline - https://text-analytics-demo-dev.azurewebsites.net/
-+ Cognitive Search Official Demo - JFK Files - https://jfk-demo.azurewebsites.net/
-+ Cognitive Search Official Code - JFK Files - https://github.com/Microsoft/AzureSearch_JFK_Files
-+ Cognitive Search Business Documents Demo - Wolters Kluwer - https://wolterskluwereap.azurewebsites.net/
-+ Cognitive Search Business Oil & Gas Demo - Exxon Mobile - http://seismicsearch.azurewebsites.net/
-+ Cognitive Search Business Healthcare - CTakes - http://webmedsearch.azurewebsites.net/
-+ Cognitive Search Accelerator - http://aka.ms/kmsolutions
-+ Azure Time Series Insights - https://insights.timeseries.azure.com/demo
-+ Computer Vision API - How Old? - https://www.how-old.net/#
-+ Azure Search Query Engines Demo - Alice - https://alice.unearth.ai/
-+ Forms Understanding Demo - https://formdemoux.azurewebsites.net/
-+ Azure Search - Jobs Demos - http://azjobsdemo.azurewebsites.net/
-+ Cognitive Search Art Explorer - http://artexplorer.azurewebsites.net/
-+ Cognitive Search - Web Med Search - http://webmedsearch.azurewebsites.net/
-+ Intelligent Kiosk - http://aka.ms/kioskapp
-+ Intelligent Kiosk Code - https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk
-+ Photos Captations Bot - https://www.captionbot.ai/
-
 ## Bots
 
 + Framework - https://dev.botframework.com/
@@ -138,8 +140,6 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 
 ## Data & AI Certifications
 + Tradictional Azure Certifications - http://aka.ms/ExamsAzure
-+ Microsoft Certifications Tracks - May 2019 - https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-+ Msft Internal Only - http://aka.ms/vouchers
 + MesuareUp - Exams Practices - https://mslibrary.measureup.com/
 + New Certifications
   + AI Engineer - https://www.microsoft.com/en-us/learning/azure-ai-engineer.aspx 
