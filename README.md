@@ -4,9 +4,9 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 
 ## How to Learn More about AI - Blogs
 
-+ Data is the New Oil - https://datanewoil.tumblr.com/
-+ AI For Developers, DBAs, or Data Scientits - https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Learn-How-to-Create-End-to-End-Solutions-with-Microsoft-AI/ba-p/698422
++ AI For Developers, DBAs, or Data Scientits - http://aka.ms/Learn-Microsoft-AI
 + AI for Business and Home Users - https://www.linkedin.com/pulse/ai-business-home-users-rodrigo-souza/
++ Data is the New Oil - https://datanewoil.tumblr.com/
 + Azure AI Twitter - https://twitter.com/AzureaiM
 
 ## LearnAI - Advanced AI Trainings
