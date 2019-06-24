@@ -9,7 +9,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + AI for Business and Home Users - https://www.linkedin.com/pulse/ai-business-home-users-rodrigo-souza/
 
 
-## AI Customer Engineering
+## LearnAI - Advanced AI Trainings
 
 + Portal - http://aka.ms/LearnAI-portal
 + Public Trainings - http://aka.ms/LearnAI-trainings
@@ -24,7 +24,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Azure Search Fundamentals - http://aka.ms/LearnAI-asf
 + Designing and Architecting Intelligent Agents Trainig - http://aka.ms/LearnAI-daaia 
 
-## AI Customer Engineering - Videos
+## LearnAI Videos
 
 + Mini Workshop Part 1 (External) - https://infopedia.eventbuilder.com/event?eventid=r2x4n8
 + Mini Workshop Part 2 (External) - https://infopedia.eventbuilder.com/event?eventid=a1i8p5
@@ -56,6 +56,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Photos Captations Bot - https://www.captionbot.ai/
 + Containers Dev Samples - http://aka.ms/containersamples
 + Q&A Maker E2E template - http://aka.ms/qnamakerbottutorial
++ Best Practices for Recommenders - https://github.com/Microsoft/Recommenders
 
 ## Microsoft Cognitive Services
 
@@ -68,23 +69,17 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Custom Vision - http://customvision.ai
 + Q&A Maker - http://qnamaker.ai/
 + Video Indexer - http://videoindexer.ai/
-+ LUIS Best Practices - https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-concept-best-practices
-+ LUIS Services Limits - https://docs.microsoft.com/en-in/azure/cognitive-services/luis/luis-boundaries
-+ Containers - http://aka.ms/cscontainers
-+	Anomaly Detector - Portal - https://azure.microsoft.com/en-us/services/cognitive-services/anomaly-detector/
-+	Anomaly Detector - Wiki - https://docs.microsoft.com/en-us/azure/cognitive-services/anomaly-detector/
 + Cognitive Services Compliance - https://azure.microsoft.com/en-us/support/legal/cognitive-services-compliance-and-privacy/
 + Custom Translator API - https://portal.customtranslator.azure.ai/
 
-## Breaking News - April 2019
+## Breaking News - May 2019
 
 + Anomally Detector public preview - https://azure.microsoft.com/en-us/services/cognitive-services/anomaly-detector/
 + Microsoft AI Business School - https://www.microsoft.com/en-us/ai/ai-business-school
 + Power BI + Automated ML - https://www.zdnet.com/article/power-bi-delivers-ai-power/
-+ Containers support for Cognitive Services - https://docs.microsoft.com/en-us/azure/cognitive-services/cognitive-services-container-support
++ Containers support for Cognitive Services - http://aka.ms/cscontainers
 + New Microsoft AI Certifications - https://www.microsoft.com/en-us/learning/browse-new-certification.aspx 
 + Microsoft Vision AI Developer Kit - https://azure.microsoft.com/en-us/blog/accelerating-ai-on-the-intelligent-edge-microsoft-and-qualcomm-create-vision-ai-developer-kit/
-+ QnA Maker template - https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/tutorials/create-qna-bot
 + New Cognitive Services - https://techcrunch.com/2019/05/02/microsoft-extends-its-cognitive-services-with-personalization-and-handwriting-recognition-apis/
 
 ## Datasets
@@ -103,7 +98,6 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + AI Stories - https://news.microsoft.com/ai-stories/
 + AI Gallery - http://aka.ms/aigallery
 + AI School - http://aka.ms/ai-school
-+ AI Best Practices for Recommenders - https://github.com/Microsoft/Recommenders
 + AI Business School - https://www.microsoft.com/en-us/ai/ai-business-school
 + AI Landscape - http://aka.ms/ai-landscape
 + AI Lab - http://www.ailab.microsoft.com 
@@ -113,12 +107,8 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Azure Machine Learning - Python SDK - http://aka.ms/aml-sdk
 + Azure Machine Learning - Data Preparation SDK - https://docs.microsoft.com/en-us/python/api/overview/azure/dataprep/intro?view=azure-dataprep-py
 + Azure Machine Learning Studio - http://aka.ms/amlstudio
-+ Azure Automated ML - https://docs.microsoft.com/en-us/azure/machine-learning/service/tutorial-auto-train-models
-+ Azure Automated ML Models - https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-automated-ml?WT.mc_id=docs-presentation-lazzeri
 + Microsoft + Qualcom Vision AI - https://visionaidevkit.com/ 
 + Azure ML Sample Notebooks - https://github.com/Azure/MachineLearningNotebooks
-+ ML + CI/CD - https://azure.microsoft.com/en-us/blog/getting-ai-ml-and-devops-working-better-together/
-+ CI/CD Tutorial - https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/ci-cd-flask?WT.mc_id=devopsai-acomblog-kbaroni
 
 ## Bots
 
