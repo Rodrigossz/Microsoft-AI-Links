@@ -127,8 +127,8 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 
 ## Bots
 
++ Active Directory Password Bot - https://github.com/generalbots-samples/AzureADPasswordReset.gbapp
 + Framework - https://dev.botframework.com/
-+ Overview - https://docs.microsoft.com/en-us/azure/bot-service/bot-service-overview-introduction?view=azure-bot-service-4.0
 + How AI chatbots are transforming businesses - http://aka.ms/bot
 + Bots + Speech to Text - https://blog.botframework.com/2017/06/26/Speech-To-Text/ 
 + Scenarios - https://docs.microsoft.com/en-us/azure/bot-service/bot-service-scenario-overview
@@ -138,9 +138,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Top Bots - https://www.bing.com/search?q=top+bots&go=Search&qs=ds&form=QBRE 
 + Emulator - https://aka.ms/botemulator 
 + State Mngmt. - https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-concept-middleware?view=azure-bot-service-4.0 
-+ Principles - https://www.microsoft.com/en-us/research/publication/responsible-bots/
 + Conversational Bot - https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/ai/conversational-bot
-+ Dispatch Tool - https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-tutorial-dispatch?view=azure-bot-service-4.0&tabs=csharp
 + Health Care Bot - https://docs.microsoft.com/en-us/healthbot/
 
 ## Data & AI Certifications
