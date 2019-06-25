@@ -59,8 +59,6 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 ### All Other
 
 + Cognitive Services Enrichment Pipeline - https://text-analytics-demo-dev.azurewebsites.net/
-+	All known AI demos across Microsoft - http://aka.ms/ai-demos
-+ Intelligent Kiosk - http://aka.ms/IntelligentKiosk
 + Intelligent Kiosk Code - https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk
 + Azure Time Series Insights - https://insights.timeseries.azure.com/demo
 + Computer Vision API - How Old? - https://www.how-old.net/#
