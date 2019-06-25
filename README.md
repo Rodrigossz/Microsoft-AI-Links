@@ -99,6 +99,8 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + AI Open Datasets - http://msropendata.com/
 + Azure Public Datasets - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-public-data-sets
 + Open Data Initiative - https://www.microsoft.com/en-us/open-data-initiative
++ SQL Server Sample Dbs Github - https://github.com/microsoft/sql-server-samples/tree/master/samples/databases
++ SQL Server Sample DBs Page - https://docs.microsoft.com/en-us/sql/samples/sql-samples-where-are?view=sql-server-2017
 
 ## AI For Good
 
