@@ -5,7 +5,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 
 ## How to Start to Learn about AI
 
-+ AI For Developers, DBAs, or Data Scientits - http://aka.ms/Learn-Microsoft-AI
++ AI For Developers, DBAs, or Data Scientists - http://aka.ms/Learn-Microsoft-AI
 + AI for Business and Home Users - https://www.linkedin.com/pulse/ai-business-home-users-rodrigo-souza/
 + Data is the New Oil - https://datanewoil.tumblr.com/
 + Azure AI Twitter - https://twitter.com/AzureaiM
