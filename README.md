@@ -134,14 +134,14 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Scenarios - https://docs.microsoft.com/en-us/azure/bot-service/bot-service-scenario-overview
 + Reference Architectures - https://azure.microsoft.com/en-us/solutions/architecture/?product=bot-service 
 + Add Intelligence to Bots - https://review.docs.microsoft.com/en-us/Bot-Framework/bot-service-concept-intelligence?branch=master
-+ Bots on Bing Results - https://www.bing.com/search?q=moksha%20Bellevue 
-+ Top Bots - https://www.bing.com/search?q=top+bots&go=Search&qs=ds&form=QBRE 
++ Bot Samples Code - https://github.com/Microsoft/botbuilder-samples
 + Emulator - https://aka.ms/botemulator 
 + State Mngmt. - https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-concept-middleware?view=azure-bot-service-4.0 
 + Conversational Bot - https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/ai/conversational-bot
 + Health Care Bot - https://docs.microsoft.com/en-us/healthbot/
 
 ## Data & AI Certifications
+
 + Tradictional Azure Certifications - http://aka.ms/ExamsAzure
 + MesuareUp - Exams Practices - https://mslibrary.measureup.com/
 + New Certifications
