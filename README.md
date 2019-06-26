@@ -17,7 +17,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Microsoft AI Shool - https://aischool.microsoft.com/learning-paths
 + Microsoft AI Customer Engineering Team Blog - http://aka.ms/ACE-Blog
 + Microsoft Cloud Workshop - https://microsoftcloudworkshop.com/
-+ Microsoft Professional Program for AI - https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/
++ Microsoft Professional Program for AI - http://aka.ms/ai-mpp
 
 
 ## LearnAI - Advanced AI Trainings
