@@ -9,6 +9,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + AI for Business and Home Users - http://aka.ms/blog-ai-for-all 
 + Data is the New Oil - https://datanewoil.tumblr.com/
 + Azure AI Twitter - https://twitter.com/AzureaiM
++ Key Microsoft AI Links - http://aka.ms/ai-links
 
 ## How to Learn More about AI - Microsoft
 
