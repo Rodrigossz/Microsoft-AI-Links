@@ -69,6 +69,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Containers Dev Samples - http://aka.ms/containersamples
 + Q&A Maker E2E template - http://aka.ms/qnamakerbottutorial
 + Best Practices for Recommenders - https://github.com/Microsoft/Recommenders
++ Entity Extractor - http://medicalentitydetector.azurewebsites.net/
 
 ## Microsoft Cognitive Services Key Sites
 
