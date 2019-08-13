@@ -164,6 +164,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Azure Datacenters - http://azuredatacentermap.azurewebsites.net/
 + Azure Services Map - https://nnmer.github.io/azure-services-map/dist/
 + Azure Latency Test - http://www.azurespeed.com/
++ Azure Latency azping - https://unofficialism.info/posts/find-the-lowest-latency-azure-regions-from-your-place-using-azping/
 + Find the right Azure APP for your Business - https://appsource.microsoft.com/en-us/
 + Azure Architecture Center - http://docs.microsoft.com/en-us/azure/architecture/
 + Azure Solutions Architectures - http://azure.microsoft.com/en-us/solutions/architecture/
