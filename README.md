@@ -170,6 +170,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Azure Solutions Architectures - http://azure.microsoft.com/en-us/solutions/architecture/
 + Azure SQL DB DTU Calculator - http://dtucalculator.azurewebsites.net/
 + Azure CosmosDb Capacity Planner - http://www.documentdb.com/capacityplanner
++ Azure Code Samples - https://docs.microsoft.com/en-us/samples/browse/
 
 ## Utilities 
 
