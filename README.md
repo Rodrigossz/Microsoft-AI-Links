@@ -14,6 +14,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Applied AI Videos - http://aka.ms/LearnAI-Videos
 + Data and AI Presentations - http://aka.ms/bw-presentations
 
+
 ## How to Learn More about AI
 
 + Microsoft Learn - https://docs.microsoft.com/en-us/learn/
@@ -33,8 +34,10 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 
 ### Azure Search / Cognitive Search / Knowledge Mining
 
-+ Knowledge Mining Solution Accelerator - http://aka.ms/KMsolutions 
-+ Cognitive Search JFK Files - https://jfk-demo.azurewebsites.net/
++ Knowledge Mining Bootcamp - http://aka.ms/kmb
++ Knowledge Mining Accelerator v2 - http://aka.ms/kma
++ Knowledge Mining Accelerator v1 - http://aka.ms/kmsolutions
++ Knowledge Mining Workshop - http://aka.ms/kmw1+ Cognitive Search JFK Files - https://jfk-demo.azurewebsites.net/
 + Cognitive Search JFK Files Code - https://github.com/Microsoft/AzureSearch_JFK_Files
 + Cognitive Search Front End - http://aka.ms/csfrontend
 + Cognitive Search Documents Demo - Wolters Kluwer - https://wolterskluwereap.azurewebsites.net/
@@ -69,9 +72,11 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Cognitive Services Portal - http://azure.microsoft.com/en-us/services/cognitive-services/
 + Cognitive Search - http://aka.ms/cognitivesearch
 + Decision Service - http://aka.ms/decisionservice
-+ CRIS - Custom Speech - http://cris.ai/
-+ LUIS - Language Understanding - http://luis.ai
++ Custom Speech - http://cris.ai/
++ Custom Language Understanding - http://luis.ai
 + Custom Vision - http://customvision.ai
++ Custom Translator - https://portal.customtranslator.azure.ai
++ Custom Search - https://www.customsearch.ai 
 + Q&A Maker - http://qnamaker.ai/
 + Video Indexer - http://videoindexer.ai/
 + Cognitive Services Compliance - https://azure.microsoft.com/en-us/support/legal/cognitive-services-compliance-and-privacy/
