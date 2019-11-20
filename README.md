@@ -12,33 +12,20 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Azure AI Twitter - https://twitter.com/AzureaiM
 + Key Microsoft AI Links - http://aka.ms/ai-links
 + Applied AI Videos - http://aka.ms/LearnAI-Videos
++ Data and AI Presentations - http://aka.ms/bw-presentations
 
-## How to Learn More about AI - Microsoft
+## How to Learn More about AI
 
 + Microsoft Learn - https://docs.microsoft.com/en-us/learn/
 + Microsoft AI Business Shool - https://www.microsoft.com/en-us/ai/ai-business-school
 + Microsoft AI Shool - https://aischool.microsoft.com/learning-paths
 + Microsoft AI Customer Engineering Team Blog - http://aka.ms/ACE-Blog
 + Microsoft Cloud Workshop - https://microsoftcloudworkshop.com/
-+ Microsoft Professional Program for AI - http://aka.ms/ai-mpp
-
-
-## LearnAI - Advanced AI Trainings
-
-+ Portal - http://aka.ms/LearnAI-portal
-+ Public Trainings - http://aka.ms/LearnAI-trainings
-+ Useful Links - http://aka.ms/LearnAI-links
-+ Cognitive Services Bootcamp - http://aka.ms/LearnAI-csb
-+ Knowledge Mining Bootcamp - http://aka.ms/LearnAI-kmb
-+ AI Airlift (csb + kmb) - http://aka.ms/LearnAI-Airlift
-+ Custom AI Airlift - https://github.com/Azure/LearnAI-CustomAI-Airlift
-
-## LearnAI Videos
-
-+ Mini Workshop Part 1 (External) - https://infopedia.eventbuilder.com/event?eventid=r2x4n8
-+ Mini Workshop Part 2 (External) - https://infopedia.eventbuilder.com/event?eventid=a1i8p5
-+ Bootcamp (Vision, Custom Vision, LUIS, Azure Search) Part 1 - https://www.youtube.com/watch?v=vgo87Xzd8a0&t=
-+ Bootcamp (Vision, Custom Vision, LUIS, Azure Search) Part 2 - https://www.youtube.com/watch?v=eHsNI0AeQQI&t=
++ Microsoft Data Club - https://osgwiki.com/wiki/Data_Club#Previous_Data_Club_Series 
++ Mini KM Workshop Part 1 (External) - https://infopedia.eventbuilder.com/event?eventid=r2x4n8
++ Mini KM Workshop Part 2 (External) - https://infopedia.eventbuilder.com/event?eventid=a1i8p5
++ AI Bootcamp (Vision, Custom Vision, LUIS, Azure Search) Part 1 - https://www.youtube.com/watch?v=vgo87Xzd8a0&t=
++ AI Bootcamp (Vision, Custom Vision, LUIS, Azure Search) Part 2 - https://www.youtube.com/watch?v=eHsNI0AeQQI&t=
 + Bing Search and BOTS training - https://channel9.msdn.com/Shows/AI-Show/LearnAI-Adding-Bing-Search-to-Bots
 + LUIS - Notes From the Field - https://www.youtube.com/watch?v=dRghtMiOBas
 
@@ -62,6 +49,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 ### All Other
 
 + Cognitive Services Enrichment Pipeline - https://text-analytics-demo-dev.azurewebsites.net/
++ Intelligent Kiosk App - http://aka.ms/kioskapp
 + Intelligent Kiosk Code - https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk
 + Azure Time Series Insights - https://insights.timeseries.azure.com/demo
 + Computer Vision API - How Old? - https://www.how-old.net/#
@@ -72,8 +60,11 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Best Practices for Recommenders - https://github.com/Microsoft/Recommenders
 + Entity Extractor - http://medicalentitydetector.azurewebsites.net/
 
+
 ## Microsoft Cognitive Services Key Sites
 
++ Content and Demos - http://aka.ms/AzureAIReady
++ Cognitive Services Roadmap - http://aka.ms/CSRMap
 + Cognitive Services Catalog - https://azure.com/cognitive
 + Cognitive Services Portal - http://azure.microsoft.com/en-us/services/cognitive-services/
 + Cognitive Search - http://aka.ms/cognitivesearch
