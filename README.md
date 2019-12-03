@@ -37,7 +37,8 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Knowledge Mining Bootcamp - http://aka.ms/kmb
 + Knowledge Mining Accelerator v2 - http://aka.ms/kma
 + Knowledge Mining Accelerator v1 - http://aka.ms/kmsolutions
-+ Knowledge Mining Workshop - http://aka.ms/kmw1+ Cognitive Search JFK Files - https://jfk-demo.azurewebsites.net/
++ Knowledge Mining Workshop - http://aka.ms/kmw1 
++ Cognitive Search JFK Files - https://jfk-demo.azurewebsites.net/
 + Cognitive Search JFK Files Code - https://github.com/Microsoft/AzureSearch_JFK_Files
 + Cognitive Search Front End - http://aka.ms/csfrontend
 + Cognitive Search Documents Demo - Wolters Kluwer - https://wolterskluwereap.azurewebsites.net/
