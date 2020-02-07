@@ -45,7 +45,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Cognitive Search Oil & Gas Demo - Exxon Mobile - http://seismicsearch.azurewebsites.net/
 + Cognitive Search Healthcare Demo - http://webmedsearch.azurewebsites.net/
 + Cognitive Search Healthcare Code - https://github.com/Azure-Samples/search-dotnet-medical-ner/blob/master/README.md
-+ Cognitive Search Art Explorer Demo - http://artexplorer.azurewebsites.net/
++ Cognitive Search Art Explorer Demo - https://art-explorer.azurewebsites.net/search
 + Azure Search Jobs Demo - http://azjobsdemo.azurewebsites.net/
 + Azure Search Query Engines Demo - Alice - https://alice.unearth.ai/
 + Azure Search Fundamentals - http://aka.ms/LearnAI-asf
