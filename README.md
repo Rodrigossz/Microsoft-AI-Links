@@ -154,6 +154,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 
 ## Azure Utilities
 
++ Azure Solution Explorer - https://azurecharts.com/solutions
 + Azure serverless community library - https://serverlesslibrary.net/
 + Azure Updates - https://azure.microsoft.com/en-us/updates/
 + Azure Readiness - http://aka.ms/azreadiness
