@@ -83,16 +83,6 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Cognitive Services Compliance - https://azure.microsoft.com/en-us/support/legal/cognitive-services-compliance-and-privacy/
 + Custom Translator API - https://portal.customtranslator.azure.ai/
 
-## Breaking News - May 2019
-
-+ Anomally Detector public preview - https://azure.microsoft.com/en-us/services/cognitive-services/anomaly-detector/
-+ Microsoft AI Business School - https://www.microsoft.com/en-us/ai/ai-business-school
-+ Power BI + Automated ML - https://www.zdnet.com/article/power-bi-delivers-ai-power/
-+ Containers support for Cognitive Services - http://aka.ms/cscontainers
-+ New Microsoft AI Certifications - https://www.microsoft.com/en-us/learning/browse-new-certification.aspx 
-+ Microsoft Vision AI Developer Kit - https://azure.microsoft.com/en-us/blog/accelerating-ai-on-the-intelligent-edge-microsoft-and-qualcomm-create-vision-ai-developer-kit/
-+ New Cognitive Services - https://techcrunch.com/2019/05/02/microsoft-extends-its-cognitive-services-with-personalization-and-handwriting-recognition-apis/
-
 ## Datasets
 
 + AI Open Datasets - http://msropendata.com/
