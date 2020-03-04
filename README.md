@@ -10,7 +10,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + AI Customer Engineer Team Blog - http://aka.ms/ACE-Blog
 + Data is the New Oil - https://datanewoil.tumblr.com/
 + Azure AI Twitter - https://twitter.com/AzureaiM
-+ Key Microsoft AI Links - http://aka.ms/ai-links
++ Key Microsoft AI Links (THIS PAGE!!!) - http://aka.ms/ai-links
 + Applied AI Videos - http://aka.ms/LearnAI-Videos
 + Data and AI Presentations - http://aka.ms/bw-presentations
 
