@@ -1,4 +1,4 @@
-# Microsoft's AI Links
+# Microsoft's Data and AI Links
 
 Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within Microsoft Platform. If you are a Microsoft FTE, ask me about the internal version.
 
@@ -144,6 +144,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 
 ## Azure Utilities
 
++ Azure Cosmos DB Workshop - http://aka.ms/cosmosdbworkshop
 + Azure Solution Explorer - https://azurecharts.com/solutions
 + Azure serverless community library - https://serverlesslibrary.net/
 + Azure Updates - https://azure.microsoft.com/en-us/updates/
