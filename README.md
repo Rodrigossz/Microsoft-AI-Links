@@ -144,6 +144,7 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 
 ## Azure Utilities
 
++ Azure Collaboration Monitor - https://azureccc.com/#/home
 + Azure Cosmos DB Workshop - http://aka.ms/cosmosdbworkshop
 + Azure Solution Explorer - https://azurecharts.com/solutions
 + Azure serverless community library - https://serverlesslibrary.net/
