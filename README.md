@@ -9,6 +9,9 @@ Useful Links for Data Management, Artificial Intelligence, Data Science, IoT and
 + GitHub Repos - https://github.com/Azurecosmosdb
 + Python SDK - https://github.com/Azure/azure-sdk-for-python/tree/master/sdk/cosmos
 + Capacity Planner - http://www.documentdb.com/capacityplanner
++ Cosmic Twitter - https://twitter.com/AzureCosmosDB
++ Cosmic Blog - https://devblogs.microsoft.com/cosmosdb/
++ StackOverflow - https://stackoverflow.com/questions/tagged/azure-cosmosdb
 
 
 ## How to Start to Learn about AI
