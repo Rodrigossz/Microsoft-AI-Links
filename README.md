@@ -4,7 +4,7 @@ Useful Links for Data Management, Artificial Intelligence, Data Science, IoT and
 
 ## Cosmos DB - My Team!!
 
-+ Cosmos Db Workshop - aka.ms/cosmosdbworkshop
++ Cosmos Db Workshop - http://aka.ms/cosmosdbworkshop
 + Got Cosmos? - https://www.gotcosmos.com/
 + GitHub Repos - https://github.com/Azurecosmosdb
 + Python SDK - https://github.com/Azure/azure-sdk-for-python/tree/master/sdk/cosmos
