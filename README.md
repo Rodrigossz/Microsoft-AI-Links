@@ -1,6 +1,14 @@
 # Microsoft's Data and AI Links
 
-Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within Microsoft Platform. If you are a Microsoft FTE, ask me about the internal version.
+Useful Links for Data Management, Artificial Intelligence, Data Science, IoT and Analytics within Microsoft Platform. If you are a Microsoft FTE, ask me about the internal version.
+
+## Cosmos DB - My Team!!
+
++ Cosmos Db Workshop - aka.ms/cosmosdbworkshop
++ Got Cosmos? - https://www.gotcosmos.com/
++ GitHub Repos - https://github.com/Azurecosmosdb
++ Python SDK - https://github.com/Azure/azure-sdk-for-python/tree/master/sdk/cosmos
++ Capacity Planner - http://www.documentdb.com/capacityplanner
 
 
 ## How to Start to Learn about AI
@@ -145,7 +153,6 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 ## Azure Utilities
 
 + Azure Collaboration Monitor - https://azureccc.com/#/home
-+ Azure Cosmos DB Workshop - http://aka.ms/cosmosdbworkshop
 + Azure Solution Explorer - https://azurecharts.com/solutions
 + Azure serverless community library - https://serverlesslibrary.net/
 + Azure Updates - https://azure.microsoft.com/en-us/updates/
@@ -160,7 +167,6 @@ Useful Links for Artificial Intelligence, Data Science, IoT and Analytics within
 + Azure Architecture Center - http://docs.microsoft.com/en-us/azure/architecture/
 + Azure Solutions Architectures - http://azure.microsoft.com/en-us/solutions/architecture/
 + Azure SQL DB DTU Calculator - http://dtucalculator.azurewebsites.net/
-+ Azure CosmosDb Capacity Planner - http://www.documentdb.com/capacityplanner
 + Azure Code Samples - https://docs.microsoft.com/en-us/samples/browse/
 
 ## Utilities 
