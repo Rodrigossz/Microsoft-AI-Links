@@ -24,6 +24,8 @@ Useful Links for Data Management, Artificial Intelligence, Data Science, IoT and
 + Key Microsoft AI Links (THIS PAGE!!!) - http://aka.ms/ai-links
 + Applied AI Videos - http://aka.ms/LearnAI-Videos
 + Data and AI Presentations - http://aka.ms/bw-presentations
++ Choosing the right ML Algorithm - https://scikit-learn.org/stable/tutorial/machine_learning_map/
++ Azure ML Algorithms Inforgraphic - https://visual.ly/community/Infographics/technology/azure-machine-learning
 
 
 ## How to Learn More about AI
@@ -113,13 +115,12 @@ Useful Links for Data Management, Artificial Intelligence, Data Science, IoT and
 + AI Platform - http://www.microsoft.com/ai
 + AI Customer Stories - https://www.microsoft.com/en-us/ai/customer-stories 
 + AI Stories - https://news.microsoft.com/ai-stories/
-+ AI Gallery - http://aka.ms/aigallery
 + AI School - http://aka.ms/ai-school
 + AI Business School - https://www.microsoft.com/en-us/ai/ai-business-school
 + AI Landscape - http://aka.ms/ai-landscape
 + AI Lab - http://www.ailab.microsoft.com 
 + AI Open Methodology - Team Data Science Process - http://aka.ms/tdsp
-+ AI Professional Program - http://aka.ms/mppai
++ ML .Net - https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet
 + AI Events Analytics with Aria - https://www.aria.ms/
 + Azure Machine Learning - Python SDK - http://aka.ms/aml-sdk
 + Azure Machine Learning - Data Preparation SDK - https://docs.microsoft.com/en-us/python/api/overview/azure/dataprep/intro?view=azure-dataprep-py
@@ -180,9 +181,7 @@ Useful Links for Data Management, Artificial Intelligence, Data Science, IoT and
 + Azure commitment with GDPR - http://blogs.microsoft.com/on-the-issues/2017/02/15/get-gdpr-compliant-with-the-microsoft-cloud/
 + MD Files Cheat Sheet - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 + Microsft Presentation Translator - http://aka.ms/presentationtranslator
-+ ML .Net - https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet
-+ Choosing the right ML Algorithm - https://scikit-learn.org/stable/tutorial/machine_learning_map/
-+ Azure ML Algorithms Inforgraphic - https://visual.ly/community/Infographics/technology/azure-machine-learning
+
 + Visual Intro do Machine Learning Part 1- http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
 + Visual Intro do Machine Learning Part 2- http://www.r2d3.us/visual-intro-to-machine-learning-part-2/
 + Dontpad - Cloud Notepad - www.dontpad.com
