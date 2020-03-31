@@ -63,6 +63,7 @@ Useful Links for Data Management, Artificial Intelligence, Data Science, IoT and
 + Azure Search Jobs Demo - http://azjobsdemo.azurewebsites.net/
 + Azure Search Query Engines Demo - Alice - https://alice.unearth.ai/
 + Azure Search Fundamentals - http://aka.ms/LearnAI-asf
++ Pyhton Toolkit for Azure Cognitive Search Custom Skills - https://github.com/Rodrigossz/Python-Custom-Skills-Toolkit
 
 ### All Other
 
