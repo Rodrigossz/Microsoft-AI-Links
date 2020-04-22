@@ -12,7 +12,9 @@ Useful Links for Data Management, Artificial Intelligence, Data Science, IoT and
 + Cosmic Twitter - https://twitter.com/AzureCosmosDB
 + Cosmic Blog - https://devblogs.microsoft.com/cosmosdb/
 + StackOverflow - https://stackoverflow.com/questions/tagged/azure-cosmosdb
-+ Cosmos DB Data Explorer Access - https://cosmos.azure.com/
++ Cosmos DB Data Explorer direct access - https://cosmos.azure.com/
++ Cosmos DB Emulator - https://docs.microsoft.com/en-us/azure/cosmos-db/local-emulator
++ Cosmos DB 3rd party emulator for Linux - https://github.com/zeit/cosmosdb-server
 
 
 ## How to Start to Learn about AI
