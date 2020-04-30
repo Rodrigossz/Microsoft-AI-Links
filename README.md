@@ -183,10 +183,10 @@ Useful Links for Data Management, Artificial Intelligence, Data Science, IoT and
 + Technical Writing Tips - https://docs.microsoft.com/en-us/style-guide/top-10-tips-style-voice
 + Microsoft Learning - http://www.microsoft.com/learn
 + Visio Stencils for Azure and Cloud Diagrams - http://www.microsoft.com/en-us/download/details.aspx?id=41937
++ Azure Icons for PPTS and Visio: https://azure.microsoft.com/en-us/patterns/styles/glyphs-icons/
 + Azure commitment with GDPR - http://blogs.microsoft.com/on-the-issues/2017/02/15/get-gdpr-compliant-with-the-microsoft-cloud/
 + MD Files Cheat Sheet - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 + Microsft Presentation Translator - http://aka.ms/presentationtranslator
-
 + Visual Intro do Machine Learning Part 1- http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
 + Visual Intro do Machine Learning Part 2- http://www.r2d3.us/visual-intro-to-machine-learning-part-2/
 + Dontpad - Cloud Notepad - www.dontpad.com
