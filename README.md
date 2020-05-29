@@ -185,6 +185,7 @@ Useful Links for Data Management, Artificial Intelligence, Data Science, IoT and
 + Microsoft Learning - http://www.microsoft.com/learn
 + Visio Stencils for Azure and Cloud Diagrams - http://www.microsoft.com/en-us/download/details.aspx?id=41937
 + Azure Icons for PPTS and Visio: https://azure.microsoft.com/en-us/patterns/styles/glyphs-icons/
++ Visio Stencils 2 - https://github.com/David-Summers/Azure-Design
 + Azure commitment with GDPR - http://blogs.microsoft.com/on-the-issues/2017/02/15/get-gdpr-compliant-with-the-microsoft-cloud/
 + MD Files Cheat Sheet - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 + Microsft Presentation Translator - http://aka.ms/presentationtranslator
