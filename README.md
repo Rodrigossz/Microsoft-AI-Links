@@ -196,6 +196,7 @@ Useful Links for Data Management, Artificial Intelligence, Data Science, IoT and
 + Azure Data Explorer - https://kusto.azurewebsites.net/docs/
 + SQL Server Data Studio - https://docs.microsoft.com/en-us/sql/azure-data-studio/what-is?view=sql-server-2017
 + Microsoft Power Toys - Monitor/Desktop organizer - https://github.com/microsoft/PowerToys
++ GitHub Status - https://www.githubstatus.com/
 
 ## Customers, Partners, Compete
 
