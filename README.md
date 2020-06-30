@@ -18,6 +18,9 @@ Useful Links for Data Management, Artificial Intelligence, Data Science, IoT and
 + Cosmos DB 3rd party emulator for Linux - https://github.com/zeit/cosmosdb-server
 + Cosmic Clone - https://github.com/Azure-Samples/cosmicclone
 + Cosmos DB Vs Code Extention - https://github.com/microsoft/vscode-cosmosdb
++ Cosmos DB Throughput Scheduler - https://github.com/Azure-Samples/azure-cosmos-throughput-scheduler
++ Synapse Link Samples - https://github.com/Azure-Samples/cosmosdb-synapse-link-samples
+
 
 ## How to Start to Learn about AI
 
