@@ -21,7 +21,11 @@ Useful Links for Data Management, Artificial Intelligence, Data Science, IoT and
 + Cosmos DB Throughput Scheduler - https://github.com/Azure-Samples/azure-cosmos-throughput-scheduler
 + Synapse Link Samples - https://github.com/Azure-Samples/cosmosdb-synapse-link-samples
 + Youtube Channel - https://www.youtube.com/channel/UC9OJ32CzooNJNoP6_iIfxRw
-
++ Import Data Tutorial - https://aka.ms/csdmtool
++ Live Data Migrator - https://github.com/Azure-Samples/azure-cosmosdb-live-data-migrator
++ Live Container Data Migrator - https://github.com/azure-samples/cosmos-dotnet-functions-migration
++ Data Migration Tool - https://github.com/azure/azure-documentdb-datamigrationtool
++ Data Migration Tutorial - https://docs.microsoft.com/en-us/azure/cosmos-db/import-data
 
 ## How to Start to Learn about AI
 
