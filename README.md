@@ -26,6 +26,7 @@ Useful Links for Data Management, Artificial Intelligence, Data Science, IoT and
 + Live Container Data Migrator - https://github.com/azure-samples/cosmos-dotnet-functions-migration
 + Data Migration Tool - https://github.com/azure/azure-documentdb-datamigrationtool
 + Data Migration Tutorial - https://docs.microsoft.com/en-us/azure/cosmos-db/import-data
++ Azure Cosmos DB Notebooks Galery - https://cosmos.azure.com/gallery.html
 
 ## How to Start to Learn about AI
 
