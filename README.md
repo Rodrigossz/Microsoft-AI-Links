@@ -29,26 +29,27 @@ Useful Links for Data Management, Artificial Intelligence, Data Science, IoT and
 + Data Migration Tutorial - https://docs.microsoft.com/en-us/azure/cosmos-db/import-data
 + Azure Cosmos DB Notebooks Galery - https://cosmos.azure.com/gallery.html
 
+## My Personal Links
+
++ LinkedIn - https://www.linkedin.com/in/rodrigossz/
++ Blog - Data is the New Oil - https://datanewoil.tumblr.com/
++ Twitter - https://twitter.com/Rodrigosqsz
+
+
 ## How to Start to Learn about AI
 
 + AI For Developers, DBAs, or Data Scientists - http://aka.ms/Learn-Microsoft-AI
 + AI for Business and Home Users - http://aka.ms/blog-ai-for-all 
 + AI Customer Engineer Team Blog - http://aka.ms/ACE-Blog
-+ Data is the New Oil - https://datanewoil.tumblr.com/
 + Azure AI Twitter - https://twitter.com/AzureaiM
 + Key Microsoft AI Links (THIS PAGE!!!) - http://aka.ms/ai-links
 + Applied AI Videos - http://aka.ms/LearnAI-Videos
-+ Data and AI Presentations - http://aka.ms/bw-presentations
++ Buck Woody's Data and AI Presentations - http://aka.ms/bw-presentations
 + Choosing the right ML Algorithm - https://scikit-learn.org/stable/tutorial/machine_learning_map/
 + Azure ML Algorithms Inforgraphic - https://visual.ly/community/Infographics/technology/azure-machine-learning
-
-
-## How to Learn More about AI
-
 + Microsoft Learn - https://docs.microsoft.com/en-us/learn/
 + Microsoft AI Business Shool - https://www.microsoft.com/en-us/ai/ai-business-school
 + Microsoft AI Shool - https://aischool.microsoft.com/learning-paths
-+ Microsoft AI Customer Engineering Team Blog - http://aka.ms/ACE-Blog
 + Microsoft Cloud Workshop - https://microsoftcloudworkshop.com/
 + Microsoft Data Club - https://osgwiki.com/wiki/Data_Club#Previous_Data_Club_Series 
 + Mini KM Workshop Part 1 (External) - https://infopedia.eventbuilder.com/event?eventid=r2x4n8
