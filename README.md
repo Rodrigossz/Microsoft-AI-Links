@@ -31,9 +31,13 @@ Useful Links for Data Management, Artificial Intelligence, Data Science, IoT and
 
 ## My Personal Links
 
-+ LinkedIn - https://www.linkedin.com/in/rodrigossz/
-+ Blog - Data is the New Oil - https://datanewoil.tumblr.com/
-+ Twitter - https://twitter.com/Rodrigosqsz
++ [LinkedIn Profile](https://www.linkedin.com/in/rodrigossz/)
++ [LinkedIn Articles](https://www.linkedin.com/in/rodrigossz/detail/recent-activity/posts/)
++ [Blog: Data is the New Oil](https://datanewoil.tumblr.com/)
++ [Youtube Channel](https://www.youtube.com/channel/UCZ_z0MqG2XMyxAE18V6NF1A)
++ [GitHub](https://github.com/Rodrigossz)
++ [GitHub CV](https://github.com/Rodrigossz/CV)
++ [Twitter](https://twitter.com/Rodrigosqsz)
 
 
 ## How to Start to Learn about AI
