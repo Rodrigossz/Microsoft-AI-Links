@@ -4,6 +4,7 @@ Useful Links for Data Management, Artificial Intelligence, Data Science, IoT and
 
 ## Cosmos DB - My Team!!
 
++ Azure Synapse Link for Azure Cosmos DB analytical store - sample notebooks: https://aka.ms/cosmosdb-synapselink-samples
 + Cosmos DB Workshop - http://aka.ms/cosmosdbworkshop
 + Cosmos DB updates - https://azure.microsoft.com/en-gb/updates/?query=Cosmos%20DB
 + Hot Site - Got Cosmos? - https://www.gotcosmos.com/
